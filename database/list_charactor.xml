@@ -1,3 +1,22 @@
 <data>
-  <info en_name="백파이프" rang="1" maxlevel="50"/>
+  <info en_name="Amber" kr_name="엠버" type="Pyro" />
+  <info en_name="Barbara" kr_name="바바라" type="Hydro" />
+  <info en_name="Beidou" kr_name="비도" type="Electro" />
+  <info en_name="Bennett" kr_name="베넷" type="Pyro" />
+  <info en_name="Chongyun" kr_name="청윤" type="Cyro" />
+  <info en_name="Diluc" kr_name="디럭" type="Pyro" />
+  <info en_name="Fischl" kr_name="피스" type="Electro" />
+  <info en_name="Jean" kr_name="진" type="Anemo" />
+  <info en_name="Kaeya" kr_name="카야" type="Cyro" />
+  <info en_name="Klee" kr_name="클리" type="Pyro" />
+  <info en_name="Lisa" kr_name="리사" type="Electro" />
+  <info en_name="Ningguang" kr_name="니구라" type="Geo" />
+  <info en_name="Noelle" kr_name="노엘" type="Geo" />
+  <info en_name="Razor" kr_name="래저" type="Electro" />
+  <info en_name="Traveler (Anemo)" kr_name="여행자" type="Anemo" />
+  <info en_name="Traveler (Geo)" kr_name="여행자" type="Geo" />
+  <info en_name="Venti" kr_name="벤티" type="Anemo" />
+  <info en_name="Xiangling" kr_name="샹링" type="Pyro" />
+  <info en_name="Xiao" kr_name="샤오" type="Anemo" />
+  <info en_name="Xingqiu" kr_name="싱커" type="Hydro" />
  </data>
