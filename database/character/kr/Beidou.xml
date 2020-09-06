@@ -73,8 +73,8 @@
   </skill>
 
   <download>
-    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/constellation"/>
-    <asset url="asset/img.icon/constellations/beidou_1.png" file="beidou_1.png" directory="/constellation"/>
-    <asset url="asset/img.icon/constellations/beidou_5.png" file="beidou_5.png" directory="/constellation"/>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/beidou_1.png" file="beidou_1.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/beidou_5.png" file="beidou_5.png" directory="/asset/img/constellation"/>
   </download>
  </data>
