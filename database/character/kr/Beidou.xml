@@ -3,12 +3,12 @@
   <detail group="남십자함대" birth="2월 14일" type="Electro" destiny="남십자해산자리" />
 
   <destiny>
-    <info-ds icon="-1" name="공전의 법칙" info ="파도잡이를 길게 터치할 때 피해 흡수량이 35% 증가한다"/>
-    <info-ds icon="-1" name="솟아 오르는 천둥번개" info ="작뢰의 번개가 2명의 적을 추가로 공격한다"/>
-    <info-ds icon="-1" name="조류발전" info ="파도잡이를 길게 터치할 때 피해 흡수량이 35% 증가한다"/>
-    <info-ds icon="-1" name="별을 따라 찾은 고향의 땅" info ="피격 후 북두의 일반 공격에 번개 원소피해가 추가된다. 지속시간 10초"/>
-    <info-ds icon="-1" name="파도를 빛추는 노을빛" info ="작로의 스킬 레벨+3(최대 15렙까지 상승)"/>
-    <info-ds icon="-1" name="북두의 귀신 퇴치" info ="뇌전 괴수의 방패가 지속하는 동안 주변 적의 번개 원소 내성이 15% 감소한다"/>
+    <info-ds icon="beidou_1.png" name="공전의 법칙" info ="파도잡이를 길게 터치할 때 피해 흡수량이 35% 증가한다"/>
+    <info-ds icon="tmp.png" name="솟아 오르는 천둥번개" info ="작뢰의 번개가 2명의 적을 추가로 공격한다"/>
+    <info-ds icon="tmp.png" name="조류발전" info ="파도잡이를 길게 터치할 때 피해 흡수량이 35% 증가한다"/>
+    <info-ds icon="tmp.png" name="별을 따라 찾은 고향의 땅" info ="피격 후 북두의 일반 공격에 번개 원소피해가 추가된다. 지속시간 10초"/>
+    <info-ds icon="beidou_5.png" name="파도를 빛추는 노을빛" info ="작로의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png" name="북두의 귀신 퇴치" info ="뇌전 괴수의 방패가 지속하는 동안 주변 적의 번개 원소 내성이 15% 감소한다"/>
   </destiny>
   <passive>
     <info-ps icon="-1" name="우주에 퍼지는 오로라" unlock="1" info="Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus."/>
@@ -71,4 +71,10 @@
     <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
     <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
   </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/constellation"/>
+    <asset url="asset/img.icon/constellations/beidou_1.png" file="beidou_1.png" directory="/constellation"/>
+    <asset url="asset/img.icon/constellations/beidou_5.png" file="beidou_5.png" directory="/constellation"/>
+  </download>
  </data>
