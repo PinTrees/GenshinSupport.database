@@ -27,7 +27,7 @@
 &#xA;4-Hit DMG ?
 &#xA;5-Hit DMG ?
 &#xA;Charged Attack DMG ?
-&#xA;Charged Attack Stamina Cost ?">
+&#xA;Charged Attack Stamina Cost ? ">
     <skillLevel rdata="48%,46%,60%,66%,79%,162%,20.0pt"/>
     <skillLevel rdata="48%,46%,60%,66%,79%,162%,20.0pt"/>
     <skillLevel rdata="48%,46%,60%,66%,79%,162%,20.0pt"/>
@@ -51,7 +51,7 @@
 &#xA;&#xA;Skill DMG ?
 &#xA;Stamina Consumption ?
 &#xA;Max Duration ?
-&#xA;Cooltime ?">
+&#xA;Cooltime ? ">
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
@@ -68,7 +68,7 @@
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
   </skill>
-  <skill icon="-1" max="15" name="자신을 중심으로 민들레 영역을 만들어 내 주변의 적들에게 바람 원소 피해를 주고 진의 공격력에 따라 근처 아군과 파티 내 모든 캐릭터의 HP를 회복한다.
+  <skill icon="-1" max="15" name="민들레 바람" info="자신을 중심으로 민들레 영역을 만들어 내 주변의 적들에게 바람 원소 피해를 주고 진의 공격력에 따라 근처 아군과 파티 내 모든 캐릭터의 HP를 회복한다.
 &#xA;민들레 영역 안에 있는 캐릭터에게 바람 원소 효과를 부여하고 HP를 지속해서 회복하며 영역을 출입하는 적에게는 바람 원소 피해를 준다.
 &#xA;&#xA;Elemental Burst DMG ?
 &#xA;Field Entering / Exiting DMG ?
