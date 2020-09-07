@@ -1,0 +1,30 @@
+<data>
+  <asset url="asset/img.icon/charactor/Amber.png" file="amber.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Barbara.png" file="barbara.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Beidou.png" file="beidou.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Bennett.png" file="bennett.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Chongyun.png" file="chongyun.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Diluc.png" file="diluc.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Fischl.png" file="fischl.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Jean.png" file="jean.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Kaeya.png" file="kaeya.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Klee.png" file="klee.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Lisa.png" file="lisa.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Ningguang.png" file="ningguang.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Noelle.png" file="noelle.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Razor.png" file="razor.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Traveler (Anemo).png" file="traveler_anemo.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Traveler (Geo).png" file="traveler_geo.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Venti.png" file="venti.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Xiangling.png" file="xiangling.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Xiao.png" file="xiao.png" directory="/asset/img/character" compulsion="0"/>
+  <asset url="asset/img.icon/charactor/Xingqiu.png" file="xingqiu.png" directory="/asset/img/character" compulsion="0"/>
+
+  <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/beidou_1.png" file="beidou_1.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/beidou_5.png" file="beidou_5.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/jean_1.png" file="jean_1.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/jean_2.png" file="jean_2.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/jean_3.png" file="jean_3.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/jean_4.png" file="jean_4.png" directory="/asset/img/constellation" compulsion="0"/>
+</data>
