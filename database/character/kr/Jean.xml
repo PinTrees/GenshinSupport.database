@@ -12,9 +12,9 @@
 &#xA;민들레 영역에서 벗어나면 해당 효과는 3번 피격되거나 10초 후 사라진다."/>
   </destiny>
   <passive>
-    <info-ps icon="tmp.png" name="바람과 함께" unlock="1" info="일반 공격 명중 시 50%의 확률로 파티 내 모든 캐릭터의 HP를 진 공격력의 15%만큼 회복한다."/>
-    <info-ps icon="tmp.png" name="바람의 인도" unlock="4" info="민들레 바람을 사용 후 원소 에너지를 20% 회복한다."/>
-    <info-ps icon="tmp.png" name="끝없는 정진" unlock="0" info="진이 캐릭터 스킬 소재 합성 시 20%의 확률로 추가로 1개 더 생성한다."/>
+    <info-ps icon="asset/img/passive/jean_1.png" name="바람과 함께" unlock="1" info="일반 공격 명중 시 50%의 확률로 파티 내 모든 캐릭터의 HP를 진 공격력의 15%만큼 회복한다."/>
+    <info-ps icon="asset/img/passive/jean_2.png" name="바람의 인도" unlock="4" info="민들레 바람을 사용 후 원소 에너지를 20% 회복한다."/>
+    <info-ps icon="asset/img/passive/jean_3.png" name="끝없는 정진" unlock="0" info="진이 캐릭터 스킬 소재 합성 시 20%의 확률로 추가로 1개 더 생성한다."/>
   </passive>
   <skill icon="-1" max="15" name="일반 공격·파도 정복" info="기본공격
 &#xA;검으로 최대 5번 공격할 수 있다.
