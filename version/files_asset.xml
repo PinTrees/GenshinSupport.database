@@ -27,4 +27,11 @@
   <asset url="asset/img.icon/constellations/jean_2.png" file="jean_2.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/jean_3.png" file="jean_3.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/jean_4.png" file="jean_4.png" directory="/asset/img/constellation" compulsion="0"/>
+
+  <asset url="asset/img.icon/passive/beidou_1.png" file="beidou_1.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/beidou_2.png" file="beidou_2.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/beidou_3.png" file="beidou_3.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/jean_1.png" file="jean_1.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/jean_2.png" file="jean_2.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/jean_3.png" file="jean_3.png" directory="/asset/img/passive" compulsion="0"/>
 </data>
