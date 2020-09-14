@@ -1,6 +1,6 @@
 <data>
   <name name="진" assistant="민들레 기사"/>
-  <detail group="페보니우스 기사단" birth="3월 14일" type="Electro" destiny="새끼 사자자리" />
+  <detail rareicon="/asset/img/static/star_1_5.png" rare="5" group="페보니우스 기사단" birth="3월 14일" type="Electro" destiny="새끼 사자자리" />
 
   <destiny>
     <info-ds icon="tmp.png" name="검척에 흐르는 폭풍" info ="풍압검을 1초 이상 홀드하면 끌어당기는 속도가 상승하고 가하는 피해가 40% 증가한다."/>
@@ -16,7 +16,7 @@
     <info-ps icon="/asset/img/passive/jean_2.png" name="바람의 인도" unlock="4" info="민들레 바람을 사용 후 원소 에너지를 20% 회복한다."/>
     <info-ps icon="/asset/img/passive/jean_3.png" name="끝없는 정진" unlock="0" info="진이 캐릭터 스킬 소재 합성 시 20%의 확률로 추가로 1개 더 생성한다."/>
   </passive>
-  <skill icon="-1" max="15" name="일반 공격·파도 정복" info="기본공격
+  <skill icon="/asset/img/skill/jean_1.png" max="15" name="일반 공격·파도 정복" info="기본공격
 &#xA;검으로 최대 5번 공격할 수 있다.
 &#xA;&#xA;강공격
 &#xA;Consumes a certain amount of Stamina to launch an enemy using the power of wind.
@@ -44,7 +44,7 @@
     <skillLevel rdata="48%,46%,60%,66%,79%,162%,20.0pt"/>
     <skillLevel rdata="48%,46%,60%,66%,79%,162%,20.0pt"/>
   </skill>
-  <skill icon="-1" max="15" name="풍압검"  info="회오리를 소환해 적을 앞으로 띄우고 바람 원소 피해를 가한다.
+  <skill icon="/asset/img/skill/jean_2.png" max="15" name="풍압검"  info="회오리를 소환해 적을 앞으로 띄우고 바람 원소 피해를 가한다.
 &#xA;Hold
 &#xA;길게 눌러 주변의 적을 자신의 앞으로 끌어당긴 후 날리는 방향을 조정할 수 있다.
 &#xA;누르는 중에는 이동할 수 없으며, 스태미나가 지속적으로 소모된다.
@@ -68,7 +68,7 @@
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
     <skillLevel rdata="292%,20/s,5s,6s" eft="7.5"/>
   </skill>
-  <skill icon="-1" max="15" name="민들레 바람" info="자신을 중심으로 민들레 영역을 만들어 내 주변의 적들에게 바람 원소 피해를 주고 진의 공격력에 따라 근처 아군과 파티 내 모든 캐릭터의 HP를 회복한다.
+  <skill icon="/asset/img/skill/jean_3.png" max="15" name="민들레 바람" info="자신을 중심으로 민들레 영역을 만들어 내 주변의 적들에게 바람 원소 피해를 주고 진의 공격력에 따라 근처 아군과 파티 내 모든 캐릭터의 HP를 회복한다.
 &#xA;민들레 영역 안에 있는 캐릭터에게 바람 원소 효과를 부여하고 HP를 지속해서 회복하며 영역을 출입하는 적에게는 바람 원소 피해를 준다.
 &#xA;&#xA;Elemental Burst DMG ?
 &#xA;Field Entering / Exiting DMG ?

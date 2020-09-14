@@ -34,4 +34,10 @@
   <asset url="asset/img.icon/passive/jean_1.png" file="jean_1.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/jean_2.png" file="jean_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/jean_3.png" file="jean_3.png" directory="/asset/img/passive" compulsion="0"/>
+
+  <asset url="asset/img.icon/skill/jean_1.png" file="jean_1.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/jean_2.png" file="jean_2.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/jean_3.png" file="jean_3.png" directory="/asset/img/skill" compulsion="0"/>
+
+  <asset url="asset/img.icon/static/star_1_5.png" file="star_1_5.png" directory="/asset/img/static" compulsion="0"/>
 </data>
