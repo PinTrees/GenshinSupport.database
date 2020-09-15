@@ -1,4 +1,5 @@
 <data>
+  <asset url="database/list_charactor.xml" file="list_charactor.xml" directory="/database" compulsion="1"/>
   <asset url="database/character/kr/Beidou.xml" file="Beidou.xml" directory="/database/character" compulsion="1"/>
   <asset url="database/character/kr/Jean.xml" file="Jean.xml" directory="/database/character" compulsion="1"/>
 </data>
