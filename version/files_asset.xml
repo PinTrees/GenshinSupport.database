@@ -40,4 +40,12 @@
   <asset url="asset/img.icon/skill/jean_3.png" file="jean_3.png" directory="/asset/img/skill" compulsion="0"/>
 
   <asset url="asset/img.icon/static/star_1_5.png" file="star_1_5.png" directory="/asset/img/static" compulsion="0"/>
+
+  <asset url="asset/img.icon/element/anemo.png" file="anemo.png" directory="/asset/img/static" compulsion="0"/>
+  <asset url="asset/img.icon/element/cryo.png" file="cryo.png" directory="/asset/img/static" compulsion="0"/>
+  <asset url="asset/img.icon/element/dendro.png" file="dendro.png" directory="/asset/img/static" compulsion="0"/>
+  <asset url="asset/img.icon/element/electro.png" file="electro.png" directory="/asset/img/static" compulsion="0"/>
+  <asset url="asset/img.icon/element/geo.png" file="geo.png" directory="/asset/img/static" compulsion="0"/>
+  <asset url="asset/img.icon/element/hydro.png" file="hydro.png" directory="/asset/img/static" compulsion="0"/>
+  <asset url="asset/img.icon/element/pyro.png" file="pyro.png" directory="/asset/img/static" compulsion="0"/>
 </data>
