@@ -1,0 +1,94 @@
+<data>
+  <name name="엠버" assistant="비행 챔피언"/>
+  <detail rareicon="/asset/img/static/star_1_4.png" rare="4" group="페보니우스 기사단" birth="8월 10일" type="Pyro" destiny="토끼자리" />
+
+  <destiny>
+    <info-ds icon="tmp.png" name="일석이츄츄!" info ="조준 사격 시 연속으로 2개의 화살을 쏜다. 두 번째 화살로 가하는 피해는 첫 번째 화살의 20%이다."/>
+    <info-ds icon="tmp.png" name="일촉즉발" info ="풀차지의 조준 사격이 토끼 백작에게 명중하면 토끼 백작을 바로 폭발시킬 수 있다. 이러한 방식으로 폭발시키면 200%의 추가 피해를 가한다."/>
+    <info-ds icon="amber_3.png" name="타오르기 시작했어!" info ="화살비의 스킬 레벨+3 (최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png" name="보통 봉제 인형일리가 없잖아" info ="폭탄 인형의 재사용 대기시간이 20% 감소한다.&#xA;사용 횟수: 2회"/>
+    <info-ds icon="amber_5.png" name="토끼 백작이야!" info ="폭탄 인형의 스킬 레벨+3 (최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png" name="맹렬한 불길" info ="화살비 사용 후 엠버의 이동 속도가 20% 증가하고 기초 공격력이 30% 증가한다.&#xA;지속 시간: 10초"/>
+  </destiny>
+  <passive>
+    <info-ps icon="/asset/img/passive/amber_1.png" name="백발백중!" unlock="1" info="화살비 치명타 확률+10%, 영향 범위+30%"/>
+    <info-ps icon="/asset/img/passive/amber_2.png" name="제압 사격" unlock="4" info="조준 사격이 약점에 명중하면 기조 공격력이 10% 증가한다.&#xA;지속 시간: 10초"/>
+    <info-ps icon="/asset/img/passive/amber_3.png" name="비행 챔피언" unlock="0" info="파티 내 모든 캐릭터의 활강 스태미나 소모량이 20% 감소한다, 동일한 특성이 존재할 경우 가장 높은 효과를 적용한다."/>
+  </passive>
+  <skill icon="/asset/img/skill/amber_1.png" max="15" name="일반 공격·파도 정복" info="기본공격
+&#xA;활로 최대 5번 공격할 수 있다.
+&#xA;&#xA;강공격
+&#xA;피해가 더 크고 정확한 조준사격을 한다. 조준 시 불의 원소를 모아 적에게 불 원소 피해를 입힌다.
+&#xA;While aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.
+&#xA;&#xA;1-Hit DMG ?
+&#xA;2-Hit DMG ?
+&#xA;3-Hit DMG ?
+&#xA;4-Hit DMG ?
+&#xA;5-Hit DMG ?
+&#xA;Fully-Charged Aimed Shot ?" >
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+    <skillLevel rdata="48%,46%,60%,66%,79%,124%" />
+  </skill>
+  <skill icon="/asset/img/skill/amber_2.png" max="15" name="폭탄 인형"  info="토끼 백작 봉제인형을 던진다. 토끼 백작이 필드에 있으면 주위의 적을 도발하여 공격을 유도한다, 토끼 백작은 엠버의 HP최대치를 일정 비율 계승하고 파괴당하거나 지속 시간이 끝나면 폭발하여 주위의 적에게 불 원소 피해를 준다. 길게 홀드하여 방향을 조절하고 투척거리를 조절할 수 있다.
+&#xA;Hold
+&#xA;방향을 조절하고 투척거리를 조절할 수 있다.
+&#xA;&#xA;Inherited HP ?
+&#xA;Explosion DMG ?
+&#xA;CD ?" >
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+    <skillLevel rdata="41%,123%,15s" eft="7.5"/>
+  </skill>
+  <skill icon="/asset/img/skill/amber_3.png" max="15" name="화살비" info="전방에 화염 화살비를 쏴 지속 시간 동안 적에게 불 원소 지속 피해를 준다.
+&#xA;&#xA;Fiery Rain DMG Per Wave ?
+&#xA;Total Fiery Rain DMG ?
+&#xA;Duration ?
+&#xA;CD ?
+&#xA;CD ?
+&#xA;Energy Cost ?">
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+    <skillLevel rdata="28%,505%,2s,12s,20s,40"/>
+  </skill>
+  
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+  </download>
+ </data>
