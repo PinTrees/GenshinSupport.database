@@ -27,7 +27,12 @@
   <asset url="asset/img.icon/constellations/jean_2.png" file="jean_2.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/jean_3.png" file="jean_3.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/jean_4.png" file="jean_4.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/amber_3.png" file="amber_3.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/amber_5.png" file="amber_5.png" directory="/asset/img/constellation" compulsion="0"/>
 
+  <asset url="asset/img.icon/passive/amber_1.png" file="amber_1.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/amber_2.png" file="amber_2.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/amber_3.png" file="amber_3.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/beidou_1.png" file="beidou_1.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/beidou_2.png" file="beidou_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/beidou_3.png" file="beidou_3.png" directory="/asset/img/passive" compulsion="0"/>
@@ -35,10 +40,14 @@
   <asset url="asset/img.icon/passive/jean_2.png" file="jean_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/jean_3.png" file="jean_3.png" directory="/asset/img/passive" compulsion="0"/>
 
+  <asset url="asset/img.icon/skill/amber_1.png" file="amber_1.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/amber_2.png" file="amber_2.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/amber_3.png" file="amber_3.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/jean_1.png" file="jean_1.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/jean_2.png" file="jean_2.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/jean_3.png" file="jean_3.png" directory="/asset/img/skill" compulsion="0"/>
 
+  <asset url="asset/img.icon/static/star_1_4.png" file="star_1_4.png" directory="/asset/img/static" compulsion="0"/>
   <asset url="asset/img.icon/static/star_1_5.png" file="star_1_5.png" directory="/asset/img/static" compulsion="0"/>
 
   <asset url="asset/img.icon/element/anemo.png" file="anemo.png" directory="/asset/img/static" compulsion="0"/>
