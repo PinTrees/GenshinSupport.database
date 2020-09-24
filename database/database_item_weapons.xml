@@ -10,12 +10,54 @@
     <passive name="Sky-Piercing Fang" info="- 원소 피해량 증가 +?%&#xA;- 충전 스킬 효율 +?%&#xA;- HP 30% 미만 시 HP ?% 회복 [쿨타임 60초]" rate="20,25,30,35,40\20,25,30,35,40\20,25,30,35,40"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="7.2%\??%\??%\??%\??%\??%\30.2%"/>
   </item>
+  
   <item code="royal_longsword" name="왕실의 장검" icon="royal_longsword.png" type="sword"
         rare="4" atk_rate="42~475" option_info="치명타 피해 증가" option_rate="12%~50.3%">
-    <passive name="Sky-Piercing Fang" info="- 공격으로 피해을 입힐 때 마다 치명타 확률 증가 +?%&#xA; [최대 5회 까지 증가, 치명타 발동 시 초기화]" rate="6,7.5,9,10.5,12"/>
+    <passive name="Focus" info="- 공격으로 피해을 입힐 때 마다 치명타 확률 증가 +?%&#xA; [최대 5회 까지 증가, 치명타 발동 시 초기화]" rate="6,7.5,9,10.5,12"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="12%\??%\??%\??%\??%\??%\50.3%"/>
   </item>
-  
+  <item code="blackcliff_longsword" name="흑암 장검" icon="blackcliff_longsword.png" type="sword"
+        rare="4" atk_rate="44~523" option_info="치명타 피해 증가" option_rate="8%~33.5%">
+    <passive name="Press the Advantage" info="적 처치 시 공격력 증가 ?%, 30초 지속&#xA;[3회 중첩 가능, 버프 지속 시간 독립 적용]" rate="12,15,18,21,24"/>
+  </item>
+  <item code="favonius_sword" name="페보니우스 검" icon="favonius_sword.png" type="sword"
+      rare="4" atk_rate="41~427" option_info="원소 충전 효율" option_rate="11.3%~36.4%">
+    <passive name="Press the Advantage" info="공격으로 치명타가 발생하면 ?%의 확률로 원소 구슬이 생성되어 6pt의 원소 에너지를 회복합니다. 이 효과는 ?초 에 1회 발동 됩니다." rate="60,70,80,90,100\12,10.5,9,7.5,6"/>
+  </item>
+  <item code="iron_sting" name="강철 벌침" icon="iron_sting.png" type="sword"
+      rare="4" atk_rate="42~475" option_info="원소 마스터리" option_rate="36~151">
+    <passive name="Infusion Stinger" info="원소 데미지 발생 이후 6초 내의 캐릭터 데미지 증가 ?%&#xA;[쿨타임 1초 최대 중첩 횟수 2회]" rate="8,10,12,14,16"/>
+  </item>
+  <item code="lions_roar" name="용의 포효" icon="lions_roar.png" type="sword"
+      rare="4" atk_rate="42~475" option_info="치명타 확률" option_rate="6%~25.1%">
+    <passive name="Bane of Fire and Thunder" info="불, 번개 원소 피해를 입은 적에게 주는 피해 증가 ?%" rate="20,24,28,32,36"/>
+  </item>
+  <item code="prototype_rancour" name="Prototype Rancour" icon="prototype_rancour.png" type="sword"
+      rare="4" atk_rate="44~455" option_info="Physical DMG Bonus" option_rate="7.5%~??%">
+    <passive name="Smashed Stone" info="On hit, Normal or Charged Attacks increase Base ATK and DEF by ?% for 6s. Max 4 stacks. Can only occur once every 0.3s." rate="6,7.5,9,10.5,12"/>
+  </item>
+  <item code="sacrificial_sword" name="Sacrificial Sword" icon="sacrificial_sword.png" type="sword"
+      rare="4" atk_rate="41~373" option_info="Base HP" option_rate="12%~55.1%">
+    <passive name="Defense" info="Taking damage generates a shield which absorbs damage up to ?% of Max HP for ?s. Can only occur once every 45s." rate="16,?,?,?,?\10,?,?,?,?"/>
+  </item>
+  <item code="the_alley_flash" name="뒷골목의 섬광" icon="the_alley_flash.png" type="sword"
+     rare="4" atk_rate="42~475" option_info="치명타 확률" option_rate="4%~16.7%">
+    <passive name="Itinerant Hero" info="1초간 달리기 이후 공격력 증가 ?%&#xA;[6초 지속, 효과 중첩 불가]" rate="28,35,42,49,56"/>
+  </item>
+  <item code="the_black_sword" name="The Black Sword" icon="the_black_sword.png" type="sword"
+    rare="4" atk_rate="42~475" option_info="Physical DMG Bonus" option_rate="9%~?%">
+    <passive name="Justice" info="Increases DMG dealt by Normal and Charged Attacks by ?%.
+&#xA;Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s." rate="16,?,?,?,?"/>
+  </item>
+  <item code="the_flute" name="피리 검" icon="the_flute.png" type="sword"
+    rare="4" atk_rate="42~475" option_info="기본 공격력" option_rate="9%~37.7%">
+    <passive name="Chord" info="일반 공격 혹은 강공격 명중시 100%확률로 화음 생성, 각 화음은 30초간 존재하며 5개의 화음이 모이면 주변 적에게 ?%의 데미지를 입힙니다." rate="100,125,150,175,200"/>
+  </item>
+
+  <item code="the_flute" name="피리 검" icon="the_flute.png" type="sword"
+    rare="4" atk_rate="42~475" option_info="기본 공격력" option_rate="9%~37.7%">
+    <passive name="Chord" info="일반 공격 혹은 강공격 명중시 100%확률로 화음 생성, 각 화음은 30초간 존재하며 5개의 화음이 모이면 주변 적에게 ?%의 데미지를 입힙니다." rate="100,125,150,175,200"/>
+  </item>
   <download>
     <asset url="asset/img.icon/weapons/skyward_blade.png" file="skyward_blade.png" directory="/asset/img/weapons" compulsion="0"/>
     <asset url="asset/img.icon/weapons/falcon.png" file="falcon.png" directory="/asset/img/weapons" compulsion="0"/>
