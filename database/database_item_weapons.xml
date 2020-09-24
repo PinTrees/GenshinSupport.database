@@ -1,16 +1,17 @@
 <data>
   <item code="skyward_blade" name="천공의 검" icon="skyward_blade.png" type="sword"
-        rare="5" atk_rate="46~563" option_info="원소 충전 효율 ?%" option_rate="12~50.3\%" >
+        info=""
+        rare="5" atk_rate="46~563" option_info="원소 충전 효율" option_rate="12%~50.3%" >
     <passive name="Sky-Piercing Fang" info="- 받는 치유량 증가 +?%&#xA;- 치명타 확률 +?%&#xA;- 치명타 시 ?% 확률로 원소 입자가 1개 드롭된다 [?초에 한번 씩 발동]" rate="20,24,28,32,36\4,5,6,7,8\80,85,90,95,100\9,8,7,6,5"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="12%\??%\??%\??%\??%\??%\50.3%"/>
   </item>
   <item code="falcon" name="매의 검" icon="falcon.png" type="sword"
-          rare="5" atk_rate="48~621" option_info="물리 피해 증가 ?%" option_rate="7.2~30.2">
+          rare="5" atk_rate="48~621" option_info="물리 피해 증가" option_rate="7.2%~30.2%">
     <passive name="Sky-Piercing Fang" info="- 원소 피해량 증가 +?%&#xA;- 충전 스킬 효율 +?%&#xA;- HP 30% 미만 시 HP ?% 회복 [쿨타임 60초]" rate="20,25,30,35,40\20,25,30,35,40\20,25,30,35,40"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="7.2%\??%\??%\??%\??%\??%\30.2%"/>
   </item>
   <item code="royal_longsword" name="왕실의 장검" icon="royal_longsword.png" type="sword"
-        rare="4" atk_rate="42~475" option_info="치명타 피해 증가 ?%" option_rate="12~50.3">
+        rare="4" atk_rate="42~475" option_info="치명타 피해 증가" option_rate="12%~50.3%">
     <passive name="Sky-Piercing Fang" info="- 공격으로 피해을 입힐 때 마다 치명타 확률 증가 +?%&#xA; [최대 5회 까지 증가, 치명타 발동 시 초기화]" rate="6,7.5,9,10.5,12"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="12%\??%\??%\??%\??%\??%\50.3%"/>
   </item>
