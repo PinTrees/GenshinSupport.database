@@ -1,66 +1,66 @@
 <data>
-  <item code="skyward_blade" name="천공의 검" icon="skyward_blade.png" type="sword"
-        rare="5" atk_rate="46~563" option_info="원소 충전 효율" option_rate="12%~50.3%" >
+  <item code="skyward_blade" name="천공의 검" icon="skyward_blade.png" type="sword" rare="5" atk_rate="46~563">
+    <option name="원소 충전 효율" rate="12%~50.3%"/>
     <passive name="Sky-Piercing Fang" info="- 받는 치유량 증가 +?%&#xA;- 치명타 확률 +?%&#xA;- 치명타 시 ?% 확률로 원소 입자가 1개 드롭된다 [?초에 한번 씩 발동]" rate="20,24,28,32,36\4,5,6,7,8\80,85,90,95,100\9,8,7,6,5"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind." />
   </item>
-  <item code="falcon" name="매의 검" icon="falcon.png" type="sword"
-          rare="5" atk_rate="48~621" option_info="물리 피해 증가" option_rate="7.2%~30.2%">
+  <item code="falcon" name="매의 검" icon="falcon.png" type="sword" rare="5" atk_rate="48~621" >
+    <option name="물리 피해 증가" rate="7.2%~30.2%"/>
     <passive name="Sky-Piercing Fang" info="- 원소 피해량 증가 +?%&#xA;- 충전 스킬 효율 +?%&#xA;- HP 30% 미만 시 HP ?% 회복 [쿨타임 60초]" rate="20,25,30,35,40\20,25,30,35,40\20,25,30,35,40"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="7.2%\??%\??%\??%\??%\??%\30.2%"/>
     <info desc="The would of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil -- just like the last heroine who wielded it." />
   </item>
-  
-  <item code="royal_longsword" name="왕실의 장검" icon="royal_longsword.png" type="sword"
-        rare="4" atk_rate="42~475" option_info="치명타 피해 증가" option_rate="12%~50.3%">
+
+  <item code="royal_longsword" name="왕실의 장검" icon="royal_longsword.png" type="sword" rare="4" atk_rate="42~475" >
+    <option name="치명타 피해 증가" rate="12%~50.3%"/>
     <passive name="Focus" info="- 공격으로 피해을 입힐 때 마다 치명타 확률 증가 +?%&#xA; [최대 5회 까지 증가, 치명타 발동 시 초기화]" rate="6,7.5,9,10.5,12"/>
     <level level="20/40/50/60/70/80/90" atk="44~119\144~226\252~261\319~361\387~429\455~???\???~???" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner." />
   </item>
-  <item code="blackcliff_longsword" name="흑암 장검" icon="blackcliff_longsword.png" type="sword"
-        rare="4" atk_rate="44~523" option_info="치명타 피해 증가" option_rate="8%~33.5%">
+  <item code="blackcliff_longsword" name="흑암 장검" icon="blackcliff_longsword.png" type="sword" rare="4" atk_rate="44~523" >
+    <option name="치명타 피해 증가" rate="8%~33.5%"/>
     <passive name="Press the Advantage" info="적 처치 시 공격력 증가 ?%, 30초 지속&#xA;[3회 중첩 가능, 버프 지속 시간 독립 적용]" rate="12,15,18,21,24"/>
     <info desc="A sword made of blackstone. It has a dark crimson glow on its black blade." />
   </item>
-  <item code="favonius_sword" name="페보니우스 검" icon="favonius_sword.png" type="sword"
-      rare="4" atk_rate="41~427" option_info="원소 충전 효율" option_rate="11.3%~36.4%">
+  <item code="favonius_sword" name="페보니우스 검" icon="favonius_sword.png" type="sword" rare="4" atk_rate="41~427" >
+    <option name="원소 충전 효율" rate="11.3%~36.4%"/>
     <passive name="Press the Advantage" info="공격으로 치명타가 발생하면 ?%의 확률로 원소 구슬이 생성되어 6pt의 원소 에너지를 회복합니다. 이 효과는 ?초 에 1회 발동 됩니다." rate="60,70,80,90,100\12,10.5,9,7.5,6"/>
     <info desc="A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!" />
   </item>
-  <item code="iron_sting" name="강철 벌침" icon="iron_sting.png" type="sword"
-      rare="4" atk_rate="42~475" option_info="원소 마스터리" option_rate="36~151">
+  <item code="iron_sting" name="강철 벌침" icon="iron_sting.png" type="sword" rare="4" atk_rate="42~475" >
+    <option name="원소 마스터리" rate="36~151"/>
     <passive name="Infusion Stinger" info="원소 데미지 발생 이후 6초 내의 캐릭터 데미지 증가 ?%&#xA;[쿨타임 1초 최대 중첩 횟수 2회]" rate="8,10,12,14,16"/>
     <info desc="An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp." />
   </item>
-  <item code="lions_roar" name="용의 포효" icon="lions_roar.png" type="sword"
-      rare="4" atk_rate="42~475" option_info="치명타 확률" option_rate="6%~25.1%">
+  <item code="lions_roar" name="용의 포효" icon="lions_roar.png" type="sword" rare="4" atk_rate="42~475">
+    <option name="치명타 확률" rate="6%~25.1%"/>
     <passive name="Bane of Fire and Thunder" info="불, 번개 원소 피해를 입은 적에게 주는 피해 증가 ?%" rate="20,24,28,32,36"/>
     <info desc="A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air." />
   </item>
-  <item code="prototype_rancour" name="Prototype Rancour" icon="prototype_rancour.png" type="sword"
-      rare="4" atk_rate="44~455" option_info="Physical DMG Bonus" option_rate="7.5%~??%">
+  <item code="prototype_rancour" name="Prototype Rancour" icon="prototype_rancour.png" type="sword" rare="4" atk_rate="44~455" >
+    <option name="Physical DMG Bonus" rate="7.5%~??%"/>
     <passive name="Smashed Stone" info="On hit, Normal or Charged Attacks increase Base ATK and DEF by ?% for 6s. Max 4 stacks. Can only occur once every 0.3s." rate="6,7.5,9,10.5,12"/>
     <info desc="An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter." />
   </item>
-  <item code="sacrificial_sword" name="Sacrificial Sword" icon="sacrificial_sword.png" type="sword"
-      rare="4" atk_rate="41~373" option_info="Base HP" option_rate="12%~55.1%">
+  <item code="sacrificial_sword" name="Sacrificial Sword" icon="sacrificial_sword.png" type="sword" rare="4" atk_rate="41~373">
+    <option name="Base HP" rate="12%~55.1%"/>
     <passive name="Defense" info="Taking damage generates a shield which absorbs damage up to ?% of Max HP for ?s. Can only occur once every 45s." rate="16,?,?,?,?\10,?,?,?,?"/>
     <info desc="A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time." />
   </item>
-  <item code="the_alley_flash" name="뒷골목의 섬광" icon="the_alley_flash.png" type="sword"
-     rare="4" atk_rate="42~475" option_info="치명타 확률" option_rate="4%~16.7%">
+  <item code="the_alley_flash" name="뒷골목의 섬광" icon="the_alley_flash.png" type="sword" rare="4" atk_rate="42~475" >
+    <option name="치명타 확률" rate="4%~16.7%"/>
     <passive name="Itinerant Hero" info="1초간 달리기 이후 공격력 증가 ?%&#xA;[6초 지속, 효과 중첩 불가]" rate="28,35,42,49,56"/>
     <info desc="A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets." />
   </item>
-  <item code="the_black_sword" name="The Black Sword" icon="the_black_sword.png" type="sword"
-    rare="4" atk_rate="42~475" option_info="Physical DMG Bonus" option_rate="9%~?%">
+  <item code="the_black_sword" name="The Black Sword" icon="the_black_sword.png" type="sword" rare="4" atk_rate="42~475" >
+    <option name="Physical DMG Bonus" rate="9%~?%"/>
     <passive name="Justice" info="Increases DMG dealt by Normal and Charged Attacks by ?%.
 &#xA;Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s." rate="16,?,?,?,?"/>
     <info desc="A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter." />
   </item>
-  <item code="the_flute" name="피리 검" icon="the_flute.png" type="sword"
-    rare="4" atk_rate="42~475" option_info="기본 공격력" option_rate="9%~37.7%">
+  <item code="the_flute" name="피리 검" icon="the_flute.png" type="sword" rare="4" atk_rate="42~475" >
+    <option name="기본 공격력" rate="9%~37.7%"/>
     <passive name="Chord" info="일반 공격 혹은 강공격 명중시 100%확률로 화음 생성, 각 화음은 30초간 존재하며 5개의 화음이 모이면 주변 적에게 ?%의 데미지를 입힙니다." rate="100,125,150,175,200"/>
     <info desc="Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.
 &#xA;
@@ -78,43 +78,41 @@
 &#xA;He named himself the Dawn Knight in her honor, and knew in his heart what he must do next." />
   </item>
 
-  <item code="cool_steel" name="Cool Steel" icon="cool_steel.png" type="sword"
-    rare="3" atk_rate="42~475" option_info="Base ATK" option_rate="7.7%~?%">
+  <item code="cool_steel" name="Cool Steel" icon="cool_steel.png" type="sword" rare="3" atk_rate="42~475" >
+    <option name="Base ATK" rate="7.7%~?%"/>
     <passive name="Bane of Water and Ice" info="Increases DMG against enemies affected by Hydro or Cryo by ?%." rate="12,15,18,21,24"/>
     <info desc="A reliable steel-forged weapon that serves as a testament to the great adventures of its old master." />
   </item>
-  <item code="dark_iron_sword" name="Dark Iron Sword" icon="dark_iron_sword.png" type="sword"
-    rare="3" atk_rate="42~475" option_info="Elemental Mastery" option_rate="16~?">
+  <item code="dark_iron_sword" name="Dark Iron Sword" icon="dark_iron_sword.png" type="sword" rare="3" atk_rate="42~475" >
+    <option name="Elemental Mastery" rate="16~?"/>
     <passive name="Overloaded" info="Upon causing an Overloaded, Superconduct, Electro-Charged, or an Electro-infused Swirl reaction, increases Base ATK by ?% for 12s." rate="20,25,30,35,40"/>
     <info desc="A perfectly ordinary iron sword, just slightly darker than most." />
   </item>
-  <item code="fillet_blade" name="Fillet Blade" icon="fillet_blade.png" type="sword"
-    rare="3" atk_rate="39~???" option_info="Base ATK" option_rate="7.7%~?%">
+  <item code="fillet_blade" name="Fillet Blade" icon="fillet_blade.png" type="sword" rare="3" atk_rate="39~???" >
+    <option name="Base ATK" rate="7.7%~?%"/>
     <passive name="Gash" info="On hit, has 50% chance to deal ?% ATK DMG to a single enemy. Can only occur once every ?s." rate="240,280,320,360,400\15,14,13,12,11"/>
     <info desc="A sharp filleting knife. The blade is long, thin, and incredibly sharp." />
   </item>
-  <item code="harbinger_of_dawn" name="Harbinger of Dawn" icon="harbinger_of_dawn.png" type="sword"
-    rare="3" atk_rate="39~???" option_info="CRIT DMG" option_rate="10.2%~?%">
+  <item code="harbinger_of_dawn" name="Harbinger of Dawn" icon="harbinger_of_dawn.png" type="sword" rare="3" atk_rate="39~???" >
+    <option name="CRIT DMG" rate="10.2%~?%"/>
     <passive name="Vigorous" info="When HP is above 90%, increases CRIT Rate by ?%." rate="14,17.5,21,24.5,28"/>
     <info desc="A sword that once shone like the sun. The wielder of this sword will be blessed with a [feel-good] buff. The reflective material on the blade has long worn off." />
   </item>
-  <item code="skyrider_sword" name="Skyrider Sword" icon="skyrider_sword.png" type="sword"
-    rare="3" atk_rate="38~???" option_info="Energy Recharge" option_rate="11.3%~?%">
+  <item code="skyrider_sword" name="Skyrider Sword" icon="skyrider_sword.png" type="sword" rare="3" atk_rate="38~???" >
+    <option name="Energy Recharge" rate="11.3%~?%"/>
     <passive name="Determination" info="Using an Elemental Burst grants a ?% increase in Base ATK and Movement SPD for 12s." rate="12,15,18,21,24"/>
     <info desc="A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword..." />
   </item>
-  <item code="travelers_handy_sword" name="Traveler's Handy Sword" icon="travelers_handy_sword.png" type="sword"
-    rare="3" atk_rate="40~???" option_info="Base DEF" option_rate="6.4%~?%">
+  <item code="travelers_handy_sword" name="Traveler's Handy Sword" icon="travelers_handy_sword.png" type="sword" rare="3" atk_rate="40~???" >
+    <option name="Base DEF" rate="6.4%~?%"/>
     <passive name="Journey" info="Each Elemental Orb or Particle collected restores ?% HP." rate="1,1.25,1.5,1.75,2"/>
     <info desc="Any flavor text from the weapon in-game can be put here." />
   </item>
-  
-  <item code="silver_sword" name="Silver Sword" icon="silver_sword.png" type="sword"
-    rare="2" atk_rate="33~???" option_info="" option_rate="">
+
+  <item code="silver_sword" name="Silver Sword" icon="silver_sword.png" type="sword" rare="2" atk_rate="33~???">
     <info desc="A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver." />
   </item>
-  <item code="dull_blade" name="Dull Blade" icon="dull_blade.png" type="sword"
-    rare="2" atk_rate="23~185+" option_info="" option_rate="">
+  <item code="dull_blade" name="Dull Blade" icon="dull_blade.png" type="sword" rare="2" atk_rate="23~185+" >
     <info desc="Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance." />
   </item>
   <download>
