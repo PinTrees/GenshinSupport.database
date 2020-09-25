@@ -78,9 +78,44 @@
 &#xA;He named himself the Dawn Knight in her honor, and knew in his heart what he must do next." />
   </item>
 
-  <item code="the_flute" name="피리 검" icon="the_flute.png" type="sword"
-    rare="4" atk_rate="42~475" option_info="기본 공격력" option_rate="9%~37.7%">
-    <passive name="Chord" info="일반 공격 혹은 강공격 명중시 100%확률로 화음 생성, 각 화음은 30초간 존재하며 5개의 화음이 모이면 주변 적에게 ?%의 데미지를 입힙니다." rate="100,125,150,175,200"/>
+  <item code="cool_steel" name="Cool Steel" icon="cool_steel.png" type="sword"
+    rare="3" atk_rate="42~475" option_info="Base ATK" option_rate="7.7%~?%">
+    <passive name="Bane of Water and Ice" info="Increases DMG against enemies affected by Hydro or Cryo by ?%." rate="12,15,18,21,24"/>
+    <info desc="A reliable steel-forged weapon that serves as a testament to the great adventures of its old master." />
+  </item>
+  <item code="dark_iron_sword" name="Dark Iron Sword" icon="dark_iron_sword.png" type="sword"
+    rare="3" atk_rate="42~475" option_info="Elemental Mastery" option_rate="16~?">
+    <passive name="Overloaded" info="Upon causing an Overloaded, Superconduct, Electro-Charged, or an Electro-infused Swirl reaction, increases Base ATK by ?% for 12s." rate="20,25,30,35,40"/>
+    <info desc="A perfectly ordinary iron sword, just slightly darker than most." />
+  </item>
+  <item code="fillet_blade" name="Fillet Blade" icon="fillet_blade.png" type="sword"
+    rare="3" atk_rate="39~???" option_info="Base ATK" option_rate="7.7%~?%">
+    <passive name="Gash" info="On hit, has 50% chance to deal ?% ATK DMG to a single enemy. Can only occur once every ?s." rate="240,280,320,360,400\15,14,13,12,11"/>
+    <info desc="A sharp filleting knife. The blade is long, thin, and incredibly sharp." />
+  </item>
+  <item code="harbinger_of_dawn" name="Harbinger of Dawn" icon="harbinger_of_dawn.png" type="sword"
+    rare="3" atk_rate="39~???" option_info="CRIT DMG" option_rate="10.2%~?%">
+    <passive name="Vigorous" info="When HP is above 90%, increases CRIT Rate by ?%." rate="14,17.5,21,24.5,28"/>
+    <info desc="A sword that once shone like the sun. The wielder of this sword will be blessed with a [feel-good] buff. The reflective material on the blade has long worn off." />
+  </item>
+  <item code="skyrider_sword" name="Skyrider Sword" icon="skyrider_sword.png" type="sword"
+    rare="3" atk_rate="38~???" option_info="Energy Recharge" option_rate="11.3%~?%">
+    <passive name="Determination" info="Using an Elemental Burst grants a ?% increase in Base ATK and Movement SPD for 12s." rate="12,15,18,21,24"/>
+    <info desc="A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword..." />
+  </item>
+  <item code="travelers_handy_sword" name="Traveler's Handy Sword" icon="travelers_handy_sword.png" type="sword"
+    rare="3" atk_rate="40~???" option_info="Base DEF" option_rate="6.4%~?%">
+    <passive name="Journey" info="Each Elemental Orb or Particle collected restores ?% HP." rate="1,1.25,1.5,1.75,2"/>
+    <info desc="Any flavor text from the weapon in-game can be put here." />
+  </item>
+  
+  <item code="silver_sword" name="Silver Sword" icon="silver_sword.png" type="sword"
+    rare="2" atk_rate="33~???" option_info="" option_rate="">
+    <info desc="A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver." />
+  </item>
+  <item code="dull_blade" name="Dull Blade" icon="dull_blade.png" type="sword"
+    rare="2" atk_rate="23~185+" option_info="" option_rate="">
+    <info desc="Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance." />
   </item>
   <download>
     <asset url="asset/img.icon/weapons/skyward_blade.png" file="skyward_blade.png" directory="/asset/img/weapons" compulsion="0"/>
