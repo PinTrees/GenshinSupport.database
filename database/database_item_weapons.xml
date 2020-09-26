@@ -440,6 +440,107 @@
     <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="[Google T] 충분한 의지력으로 휘두르면 산을 깨뜨릴 수있을만큼 강력한 철판." />
   </item>
+
+  <item code="kunwus_iris_rift" name="곤오단홍" icon="kunwus_iris_rift.png" type="polearm" rare="5" atk_rate="46~608">
+    <option name="기본 공격력" rate="10.8%~49.6%"/>
+    <passive name="레인보우 피어싱 스팅거"
+             info="공속 증가 ?%, 원소 영향을 받틑 적에게 데미지 증가 ?%"
+             rate="10,12,14,16,18\24,30,36,42,48"/>
+    <level level="20/40/50/60/70/80/90" damage="46~122\153~235\266~308\?~382\414~457\488~532\563~608" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 운석으로 만든 폴암으로 순식간에 무지개를자를 수 있습니다. 휘두르면 공중에서 찢어지는 균열을 거의 볼 수 있습니다." />
+  </item>
+  <item code="primordial_jade_winged_spear" name="화박연" icon="primordial_jade_winged_spear.png" type="polearm" rare="5" atk_rate="48~674">
+    <option name="치명타 확률" rate="4.8%~22.1%"/>
+    <passive name="정의의 독수리 창"
+             info="적에게 적중 시 6초간 공격력 증가 ?% [쿨타임 0.3초 최대 7회 중첩]
+             &#xA;최대 충전 시 원소 전투 스킬의 데미지 증가 ?%" 
+             rate="3.2,3.9,4.6,5.3,6\12,15,18,21,24"/>
+    <level level="20/40/50/60/70/80/90" damage="48~133\164~261\292~341\373~423\455~506\537~590\621~674" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 집정관이 만든 옥 장창으로 고대 짐승을 죽일 수 있습니다." />
+  </item>
+
+  <item code="blackcliff_pole" name="흑암창" icon="blackcliff_pole.png" type="polearm" rare="4" atk_rate="42~???">
+    <option name="치명타 피해" rate="12%~49.6%"/>
+    <passive name="이점을 누르십시오"
+             info="적 처치 시 공격력 증가 ?% [지속시간 30초, 최대 3중첩, 각각 따로 지속시간 적용]"
+             rate="12,15,18,21,24"/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 블랙 스톤과 에어로 사이드 라이트로 만든 무기. 차가운 검은 광택에 어두운 진홍빛 빛이 있습니다." />
+  </item>
+  <item code="crescent_pike" name="초승달 파이크" icon="crescent_pike.png" type="polearm" rare="4" atk_rate="44~???">
+    <option name="물리적 DMG 보너스" rate="6%~27.5%"/>
+    <passive name="주입 바늘"
+             info="Elemental Orb / Particle을 집은 후 Normal 및 Charged Attack은 5초 동안 추가로 ?% 공격력을 데미지로 처리합니다."
+             rate="24,30,36,42,48"/>
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 상단에 매우 긴 칼날과 하단에 초승달 칼날이있는 이국적인 무기입니다. 그것은 외국 상인을 통해 Liyue로 나아갔습니다. 연습하면 큰 피해를 입힐 수 있습니다." />
+  </item>
+  <item code="deathmatch" name="죽음의 일치" icon="deathmatch.png" type="polearm" rare="4" atk_rate="41~???">
+    <option name="에너지 재충전" rate="13.3%~27.5%"/>
+    <passive name="검투사"
+             info="근처에 상대가 2명 이상 있으면 공격력이 12% 증가하고 방어력이 12% 증가합니다. 주변에 적이 2 명 미만이면 공격력이 24% 증가합니다."
+             rate=""/>
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 검투사의 귀중한 보물이었던 날카로운 진홍색 장창. 그 송곳은 수많은 짐승과 인간의 피로 물들어 있습니다." />
+  </item>
+  <item code="dragons_bane" name="용학살창" icon="dragons_bane.png" type="polearm" rare="4" atk_rate="41~???">
+    <option name="원소 마스터리" rate="48~??"/>
+    <passive name="화염과 물의 파멸"
+             info="불, 물 속성의 피해를 입은 적에게 데미지 증가 ?%"
+             rate="20,24,28,32,36"/>
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 얽힌 황금용으로 장식 된 폴암. 가볍고 날카로운이 무기는 용을 쉽게 죽일 수 있습니다." />
+  </item>
+  <item code="lithic_spear" name="리틱 스피어" icon="lithic_spear.png" type="polearm" rare="4" atk_rate="42~???">
+    <option name="물리적 DMG 보너스" rate="9%~??%"/>
+    <passive name="Lithic Axiom-정복하는 악"
+             info="일반 공격 적중시 20% 확률로 다음 10초 동안 수행되는 다음 차지 공격이 40% 증가 된 데미지를 입힙니다."
+             rate=""/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 구 은석 숲의 암석으로 만들어진 창. 그것의 경도는 동등하지 않습니다." />
+  </item>
+  <item code="prototype_grudge" name="프로토 타입 원한" icon="prototype_grudge.png" type="polearm" rare="4" atk_rate="42~???">
+    <option name="에너지 재충전" rate="10%~??%"/>
+    <passive name="매직 어피 니티"
+             info="엘레멘탈 스킬 사용 후 12초 동안 일반 및 차지 공격 데미지 ?% 증가 . 최대 2회 중첩됩니다."
+             rate="12,15,18,21,24"/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] Blackcliff Forge에서 발견 된 원한. 날카로운 모서리를 따라 반짝이는 빛은 밤의 별과 같습니다." />
+  </item>
+
+  <item code="black_tassel" name="검은 술" icon="black_tassel.png" type="polearm" rare="3" atk_rate="38~???">
+    <option name="기본 HP" rate="10.2%~??%"/>
+    <passive name="부드러움의 파멸"
+             info="슬라임에 대한 DMG를 ?% 증가시킵니다."
+             rate="40,50,60,70,80"/>
+    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 쉽게 염색되는 흰색 술 문제에 대한 단순하지만 우아한 솔루션을 제공하는 매우 강력한 폴암." />
+  </item>
+  <item code="halberd" name="미늘창" icon="halberd.png" type="polearm" rare="3" atk_rate="38~???">
+    <option name="기본 공격력" rate="5.1%~??%"/>
+    <passive name="무거운"
+             info="일반 공격은 추가로 ?% 데미지를줍니다. 10초에 한 번만 발생할 수 있습니다."
+             rate="160,200,240,280,320"/>
+    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 도끼 날이 장착 된 폴암은 상당한 피해를 입힐 수 있습니다. Millelith 장교가 선호합니다." />
+  </item>
+  <item code="white_tassel" name="백술창" icon="white_tassel.png" type="polearm" rare="3" atk_rate="39~???">
+    <option name="치명타 확률" rate="5.1%~??%"/>
+    <passive name="날카로운"
+             info="일반 공격 데미지 증가 ?%"
+             rate="24,30,36,42,48"/>
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 도끼 날이 장착 된 폴암은 상당한 피해를 입힐 수 있습니다. Millelith 장교가 선호합니다." />
+  </item>
+
+  <item code="iron_point" name="아이언 포인트" icon="iron_point.png" type="polearm" rare="2" atk_rate="33~???">
+    <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 한쪽 끝이 날카 롭고 뾰족한 균형 잡힌 무기로 여행객들에게 인기가 높습니다." />
+  </item>
+  <item code="beginners_protector" name="초보자의 수호자" icon="beginners_protector.png" type="polearm" rare="1" atk_rate="23~???">
+    <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 깃대처럼 곧은 폴암. 대부분의 전투 상황에 잘 어울리 며 휘두르면 당당한 존재감이 있습니다." />
+  </item>
   
   <item code="skyward_blade" name="천공의 검" icon="skyward_blade.png" type="sword" rare="5" atk_rate="46~563">
     <option name="원소 충전 효율" rate="12%~50.3%"/>

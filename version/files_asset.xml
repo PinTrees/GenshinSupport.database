@@ -105,7 +105,15 @@
   <asset url="asset/img.icon/weapon/claymore/waster_greatsword.png" file="waster_greatsword.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/claymore/whiteblind.png" file="whiteblind.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/claymore/wolfs_gravestone.png" file="wolfs_gravestone.png" directory="/asset/img/weapon" compulsion="0"/>
- 
+
+  <asset url="asset/img.icon/weapon/polearm/black_tassel.png" file="black_tassel.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/polearm/blackcliff_pole.png" file="blackcliff_pole.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/polearm/crescent_pike.png" file="crescent_pike.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/polearm/dragons_bane.png" file="dragons_bane.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/polearm/iron_point.png" file="iron_point.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/polearm/kunwus_iris_rift.png" file="kunwus_iris_rift.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/polearm/prototype_grudge.png" file="prototype_grudge.png" directory="/asset/img/weapon" compulsion="0"/>
+
   <asset url="asset/img.icon/weapon/sword/blackcliff_longsword.png" file="blackcliff_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/cool_steel.png" file="cool_steel.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/dark_iron_sword.png" file="dark_iron_sword.png" directory="/asset/img/weapon" compulsion="0"/>
