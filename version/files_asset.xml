@@ -58,13 +58,20 @@
   <asset url="asset/img.icon/element/hydro.png" file="hydro.png" directory="/asset/img/static" compulsion="0"/>
   <asset url="asset/img.icon/element/pyro.png" file="pyro.png" directory="/asset/img/static" compulsion="0"/>
 
-  <asset url="asset/img.icon/weapon/blackcliff_longsword.png" file="blackcliff_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/favonius_sword.png" file="favonius_sword.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/iron_sting.png" file="iron_sting.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/lions_roar.png" file="lions_roar.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/prototype_rancour.png" file="prototype_rancour.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/royal_longsword.png" file="royal_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/sacrificial_sword.png" file="sacrificial_sword.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/skyward_blade.png" file="skyward_blade.png" directory="/asset/img/weapon" compulsion="0"/>
-  <asset url="asset/img.icon/weapon/the_flute.png" file="the_flute.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/blackcliff_longsword.png" file="blackcliff_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/cool_steel.png" file="cool_steel.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/dark_iron_sword.png" file="dark_iron_sword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/dull_blade.png" file="dull_blade.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/harbinger_of_dawn.png" file="harbinger_of_dawn.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/favonius_sword.png" file="favonius_sword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/iron_sting.png" file="iron_sting.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/lions_roar.png" file="lions_roar.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/prototype_rancour.png" file="prototype_rancour.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/royal_longsword.png" file="royal_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/sacrificial_sword.png" file="sacrificial_sword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/silver_sword.png" file="silver_sword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/skyrider_sword.png" file="skyrider_sword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/skyward_blade.png" file="skyward_blade.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/the_flute.png" file="the_flute.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/sword/travelers_handy_sword.png" file="travelers_handy_sword.png" directory="/asset/img/weapon" compulsion="0"/>
 </data>
