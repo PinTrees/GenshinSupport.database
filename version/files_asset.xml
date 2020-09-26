@@ -90,6 +90,22 @@
   <asset url="asset/img.icon/weapon/catalyst/the_widsith.png" file="the_widsith.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/catalyst/thrilling_tales_of_dragon_slayers.png" file="thrilling_tales_of_dragon_slayers.png" directory="/asset/img/weapon" compulsion="0"/>
 
+  <asset url="asset/img.icon/weapon/claymore/bloodtainted_greatsword.png" file="bloodtainted_greatsword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/debate_club.png" file="debate_club.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/favonius_greatsword.png" file="favonius_greatsword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/ferrous_shadow.png" file="ferrous_shadow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/old_mercs_pal.png" file="old_mercs_pal.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/prototype_aminus.png" file="prototype_aminus.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/quartz.png" file="quartz.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/raincutter.png" file="raincutter.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/royal_greatsword.png" file="royal_greatsword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/serpent_spine.png" file="serpent_spine.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/skyward_pride.png" file="skyward_pride.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/the_bell.png" file="the_bell.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/waster_greatsword.png" file="waster_greatsword.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/whiteblind.png" file="whiteblind.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/claymore/wolfs_gravestone.png" file="wolfs_gravestone.png" directory="/asset/img/weapon" compulsion="0"/>
+ 
   <asset url="asset/img.icon/weapon/sword/blackcliff_longsword.png" file="blackcliff_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/cool_steel.png" file="cool_steel.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/dark_iron_sword.png" file="dark_iron_sword.png" directory="/asset/img/weapon" compulsion="0"/>
