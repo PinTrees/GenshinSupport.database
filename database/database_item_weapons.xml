@@ -1,146 +1,4 @@
 <data>
-  <item code="lost_prayer_to_the_sacred_winds" name="사풍원서" icon="lost_prayer_to_the_sacred_winds.png" type="catalyst" rare="5" atk_rate="46~563">
-    <option name="치명타 확률" rate="7.2%~?%"/>
-    <passive name="무한한 축복" info="이동속도 10% 증가, 필드에서 1초 마다 ?%원소 전투 스킬 데미지 보너스를 얻습니다. [최대 4회 중첩, 필드에서 벗어나거나 피격 시 초기화]" rate="8,10,12,14,16" />
-    <level level="20/40/50/60/70/80/90" damage="46~122\153~235\266~308\?~382\414~457\488~532\563~608" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 바람을 숭배 한 익명의 초기 주민이 쓴 교육서. 천년에 걸친 신실함과 영향력으로 바람의 축복을 받았습니다." />
-  </item>
-  <item code="skyward_atlas" name="천공의 두루마리" icon="skyward_atlas.png" type="catalyst" rare="5" atk_rate="48~563">
-    <option name="기본 공격력" rate="7.2%~?%"/>
-    <passive name="방황하는 구름" info="원소 전투스킬 데미지 증가 ?%, 일반공격, 강공격 적중시 ?%의 확률로 15초간 지속하며 기본 공격력의 ?% 광역 피해를 주는 구체를 소환합니다. [쿨타임 30초]" rate="12,15,18,21,24\160,200,240,280,320" />
-    <level level="20/40/50/60/70/80/90" damage="48~133\164~261\292~341\373~423\455~506\537~590\621~674" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] Dvalin과 전 마스터 인 Anemo Archon을 상징하는 클라우드 아틀라스입니다. 그것은 북부 지역의 바람과 구름을 자세히 설명하고 하늘과 바람의 힘을 포함합니다." />
-  </item>
-  
-  <item code="blackcliff_amulet" name="흑암 홍옥" icon="blackcliff_amulet.png" type="catalyst" rare="4" atk_rate="42~?">
-    <option name="치명타 피해" rate="12%~?%"/>
-    <passive name="내쫓다" info="적 처치시 공격력 증가 ?% [지속시간 30초, 최대 3회 중첩, 각각 따로 지속시간 적용]" rate="12,15,18,21,24" />
-    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 블랙 스톤으로 만든 신비한 촉매제. 그것은 지구 깊은 곳에서 오는 떨림과 동기화되어 맥동하는 것처럼 보이는 불길한 진홍빛 빛을 가지고 있습니다." />
-  </item>
-  <item code="eye_of_perception" name="소심" icon="eye_of_perception.png" type="catalyst" rare="4" atk_rate="41~?">
-    <option name="기본 공격력" rate="12%~?%"/>
-    <passive name="내쫓다" info="일반공격, 강공격 적중시 ?%의 확률로 마법공격 발생, 마법 공격은 ?%의 피해를 가지며 최대 4회에 걸쳐 튕기면서 공격합니다. 쿨타임 ?초" rate="240,270,300,330,360\12,11,10,9,8" />
-    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 마음의 순결에 도달하는 힘이 있다고하는 희미한 검은 유약 진주." />
-  </item>
-  <item code="favonius_codex" name="페보니우스 비전" icon="favonius_codex.png" type="catalyst" rare="4" atk_rate="42~?">
-    <option name="원소 충전 효율" rate="10%~?%"/>
-    <passive name="크리티컬 차지" info="공격으로 치명타가 발생하면 ?%의 화률로, 6pt의 에너지를 회복하는 원소 구슬 생성. 쿹타임 ?초" rate="60,70,80,90,100\12,10.5,9,7.5,6" />
-    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 파 보니 우스 기사단 학자들의 비밀 고서. 그것은 요소와 물질의 논리와 힘을 설명합니다." />
-  </item>
-  <item code="mappa_mare" name="마파 마레" icon="mappa_mare.png" type="catalyst" rare="4" atk_rate="44~?">
-    <option name="엘리멘탈 마스터리" rate="24~?"/>
-    <passive name="주입 스크롤" info="원소 반응을 유발하면 10 초 동안 원소 데미지 보너스 10%를 얻습니다. 최대 2회 중첩됩니다." rate="" />
-    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 외국 상인을 통해 Liyue에 어떻게 든 찾아낸 인근 해류와 기후를 보여주는 해상 차트." />
-  </item>
-  <item code="prototype_malice" name="프로토 타입 악의" icon="prototype_malice.png" type="catalyst" rare="4" atk_rate="41~?">
-    <option name="기본 HP" rate="12%~?%"/>
-    <passive name="황금 도금" info="Elemental Burst를 사용하면 6초 동안 2초마다 ?에너지가 재생됩니다. 또한 모든 파티원은이 기간 동안 2초마다 ?% HP를 재생합니다." rate="4,4.5,5,5.5,6\4,4.5,5,5.5,6" />
-    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 블랙 클리프 대장간에서 비밀리에 지키고있는 칙칙한 금박 촉매. 하늘에서 나는 빛으로 빛나는 것 같습니다." />
-  </item>
-  <item code="royal_grimoire" name="왕실의 비전록" icon="royal_grimoire.png" type="catalyst" rare="4" atk_rate="44~?">
-    <option name="기본 공격력" rate="6%~?%"/>
-    <passive name="에너지 폭발" info="일반 공격이 적중하면 ?% 확률로 적에게 에너지 쇼크가 발생하여 ?%의 데미지를 입힙니다. [쿨타임 10초]" rate="240,300,360,420,480" />
-    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 한때 Mondstadt의 왕실 마법사가 소유했던 책. 그것은 신실하고 포괄적 인 역사적 기록과 마법 주문을 포함합니다." />
-  </item>
-  <item code="sacrificial_fragments" name="제례의 악장" icon="sacrificial_fragments.png" type="catalyst" rare="4" atk_rate="44~?">
-    <option name="원소 마스터리" rate="48~?"/>
-    <passive name="구성" info="원소 전투스킬 사용시 ?%확률로 스킬의 재사용 시간 초기화 및 ?초마다 쿨타임 적용" rate="40,50,60,70,80\30,25,20,15,10" />
-    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 텍스트가 더 이상 읽을 수없는 풍화 된 스크립트입니다. 시간의 바람에 침식 된 저주받은 물건.
-&#xA;
-&#xA;초기에 몬트 슈타 트 사람들은 신을 기쁘게하기 위해 바람이 부는 절벽 위에 극장을 짓는 전통을 가졌습니다.
-&#xA;의식은 신들이 이야기와 발라드를 즐겼다 고 믿었 기 때문에 공연의 형태를 취했습니다.
-&#xA;이 스크립트는 수천 년이 지났으며 더 이상 읽을 수 없습니다.
-&#xA;
-&#xA;오래 전, 폭풍의 군주와 북방의 늑대 왕 사이에 전쟁이 벌어졌습니다 . Mondstadt는 눈보라에 휩싸 였고 눈은 모래처럼 찔 렸습니다.
-&#xA;추위를 견딜 수있는 그룹은 더 이상 동쪽 절벽 꼭대기에 신사를 세울 수 없습니다. 그곳에서 그들은 신성한 자비와 보호를 위해기도했습니다.
-&#xA;
-&#xA;바람은 잠시 동안 불지 만 시간의 파괴는 지속적이고 가차없고 돌이킬 수 없습니다.
-&#xA;바람의 신은 책의 페이지 사이를 이동할 수 있지만 결국 무자비한 시간의 신은 읽을 수있는 단어가 하나도 남지 않을 때까지 그들을 먹어 치울 것입니다.
-&#xA;
-&#xA;그러나 시간의 폭행과 바람의 폭행은 종종 심장에 동일한 피해를 입 힙니다.
-&#xA;아마도 이것이 후대에 신사가 항상 바람에, 바람에만 있었다고 가정 한 이유 일 것입니다." />
-  </item>
-  <item code="solar_pearl" name="태양 진주" icon="solar_pearl.png" type="catalyst" rare="4" atk_rate="42~?">
-    <option name="CRIT 비율" rate="6%~27.5%"/>
-    <passive name="솔라 샤인" info="일반 공격은 6초 동안 원소 스킬과 원소 버스트 데미지를 ?% 증가시킵니다. 마찬가지로 Elemental Skill이나 Elemental Burst는 6초 동안 일반 공격력을 ?% 증가시킵니다." rate="20,25,30,35,40\20,25,30,35,40" />
-    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 태양과 달의 빛을 품고 따뜻한 힘으로 맥동하는 미지의 물질로 만든 칙칙하고 금빛 진주." />
-  </item>
-  <item code="the_widsith" name="음유시인의 악장" icon="the_widsith.png" type="catalyst" rare="4" atk_rate="42~?">
-    <option name="치명타 피해" rate="12%~?%"/>
-    <passive name="데뷔" info="캐릭터가 필드에 등장하면 랜덤으로 화음효과를 얻습니다.
-&#xA;1. 공격력 증가 ?%
-&#xA;2.모든 속성 데미지 증가 ?%
-&#xA;3.원소 마스터리 증가 ?" rate="60,75,90,105,120\48,60,72,84,96\240,300,360,420,480" />
-    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 악보로 가득 찬 무거운 노트북. 나방 피해와 심한 마모로 고통을 겪고 있지만, 손으로 쓴 단어에는 여전히 많은 힘이 있습니다." />
-  </item>
-  <item code="wine_and_song" name="뒷골목 술과 시" icon="wine_and_song.png" type="catalyst" rare="4" atk_rate="42~?">
-    <option name="원소 충전 효율" rate="10%~?%"/>
-    <passive name="솔라 샤인" info="파티 내 몬드성 캐릭터 숫자에 따라서 공격력 ?%, 이동속도 ?% 증가" rate="8,10,12,14,16\3,3.5,4,4.5,5" />
-    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 작곡가가 잊혀진 과거 귀족 시대의 노래 책. 그것은 어떤 영웅적인 무법자의 이야기를 기록합니다." />
-  </item>
-  
-  <item code="amber_catalyst" name="호박색 촉매" icon="amber_catalyst.png" type="catalyst" rare="3" atk_rate="40~?">
-    <option name="엘리멘탈 마스터리" rate="16~?"/>
-    <passive name="엘리멘탈 마스터리" info="일반 공격은 6초 동안 모든 원소 데미지를 ?% 증가시킵니다. 최대 2회 중첩됩니다." rate="6,7.5,9,10.5,12" />
-    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 태양 아래에서 따뜻한 후광을 얻는 호박색으로 조각 된 촉매제." />
-  </item>
-  <item code="jade_orb" name="비취 보주" icon="jade_orb.png" type="catalyst" rare="3" atk_rate="40~?">
-    <option name="엘리멘탈 마스터리" rate="20~?"/>
-    <passive name="여울" info="Vaporize, Electro-Charged, Frozen 또는 Hydro-infused Swirl 반응을 일으키면 기본 공격력이 12초 동안 ?% 증가합니다." rate="20,25,30,35,40" />
-    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] Liyue 북쪽 Jueyunjian에서 단단한 옥으로 조각 된 촉매제. 작고 가볍고 내구성이 있습니다." />
-  </item>
-  <item code="magic_guide" name="매직 가이드" icon="magic_guide.png" type="catalyst" rare="3" atk_rate="38~?">
-    <option name="엘리멘탈 마스터리" rate="41~?"/>
-    <passive name="폭풍과 해일의 파멸" info="Hydro 또는 Electro의 영향을받는 적에 대한 DMG를 ?% 증가시킵니다." rate="12,15,18,21,24" />
-    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 버전 12. 버전 11에 대한 수정 사항과 최근 개발 사항을 기반으로 한 새로운 추가 사항이 포함 된 재 인쇄물입니다.
-&#xA;
-&#xA;이 버전의 Magic Guide는 출판되었을 때 많은 논란을 불러 일으켰습니다.
-&#xA;VII 장 : Anemo 요소의 원리에서 볼 수있는 기본 상식에 대한 도전에 더하여 수력 및 전기 요소의 기본 원리에 관한 오류도 관찰 할 수 있습니다.
-&#xA;분명히이 책은 출판 전에 동료 심사를 거치지 않았습니다. 그럼에도 불구하고이 책은 현존하는 마법에 대한 가장 권위있는 가이드입니다." />
-  </item>
-  <item code="otherworldly_story" name="다른 세상 이야기" icon="otherworldly_story.png" type="catalyst" rare="3" atk_rate="39~?">
-    <option name="에너지 재충전" rate="8.5%~?%"/>
-    <passive name="에너지 샤워" info="수집 된 각 원소 보주 또는 입자는 1% HP를 회복합니다." rate="" />
-    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 가치가 전혀없는 값싼 판타지 소설. 그것이 촉매 작용의 힘을 가지고 있다는 주장도 순수한 환상입니다." />
-  </item>
-  <item code="thrilling_tales_of_dragon_slayers" name="스릴 넘치는 드래곤 슬레이어 이야기" icon="thrilling_tales_of_dragon_slayers.png" type="catalyst" rare="3" atk_rate="39~?">
-    <option name="기본 HP" rate="10.2%~?%"/>
-    <passive name="유산" info="캐릭터 전환시 필드를 차지하는 새로운 캐릭터의 공격력은 10초 동안 ?% 증가합니다. 이 효과는 20초에 한 번만 발생합니다." rate="24,30,36,42,48" />
-    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 드래곤 사냥을 시작하는 다섯 명의 영웅 밴드에 대한 가상의 이야기. 제대로 작성되지 않았고 구조적으로 일관성이 없습니다. 그 가치는 실패에서 배울 수있는 많은 교훈에 있습니다." />
-  </item>
-  <item code="twin_nephrite" name="쌍둥이 연옥" icon="twin_nephrite.png" type="catalyst" rare="3" atk_rate="40~?">
-    <option name="CRIT 비율" rate="3.4%~?%"/>
-    <passive name="게릴라 전술" 
-             info="적을 처치하면 15 초 동안 이동 속도와 공격력이 ?% 증가합니다." 
-             rate="12,14,16,18,20" />
-    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 두 개의 비취 돌을 연결하여 만든 비취 펜던트." />
-  </item>
-  
-  <item code="pocket_grimoire" name="포켓 그리 모어" icon="pocket_grimoire.png" type="catalyst" rare="2" atk_rate="23~?">
-    <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 마술 시험에 합격하는 데 필요한 필수 정보를 담은 신중하게 편집 된 노트북입니다." />
-  </item>
-  <item code="apprentices_notes" name="견습생 노트" icon="apprentices_notes.png" type="catalyst" rare="2" atk_rate="33~?">
-    <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
-    <info desc="[Google T] 최고의 학생이 남긴 메모. 많은 유용한 주문이 나열되어 있으며 필기가 아름답습니다." />
-  </item>
-  
   <item code="amos_bow" name="아모스의 활" icon="amos_bow.png" type="bow" rare="5" atk_rate="46~563">
     <option name="기본 공격력" rate="10.8%~49.6%"/>
     <passive name="Strong-Willed" info="일반 공격과 조준 사격 공격력 증가 ?%, 화살 발사 후 0.1초마다 공격력 증가 ?% [5회 중첩]" rate="12,15,18,21,24\8,10,12,14,16" />
@@ -277,6 +135,312 @@
     <info desc="[Google T] 사냥꾼의 음악은 두 가지 소리로 구성되어 있습니다 : 활의 쫄깃 쫄깃한 소리와 솟아 오르는 화살의 쉿 소리." />
   </item>
 
+  <item code="lost_prayer_to_the_sacred_winds" name="사풍원서" icon="lost_prayer_to_the_sacred_winds.png" type="catalyst" rare="5" atk_rate="46~563">
+    <option name="치명타 확률" rate="7.2%~?%"/>
+    <passive name="무한한 축복" info="이동속도 10% 증가, 필드에서 1초 마다 ?%원소 전투 스킬 데미지 보너스를 얻습니다. [최대 4회 중첩, 필드에서 벗어나거나 피격 시 초기화]" rate="8,10,12,14,16" />
+    <level level="20/40/50/60/70/80/90" damage="46~122\153~235\266~308\?~382\414~457\488~532\563~608" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 바람을 숭배 한 익명의 초기 주민이 쓴 교육서. 천년에 걸친 신실함과 영향력으로 바람의 축복을 받았습니다." />
+  </item>
+  <item code="skyward_atlas" name="천공의 두루마리" icon="skyward_atlas.png" type="catalyst" rare="5" atk_rate="48~563">
+    <option name="기본 공격력" rate="7.2%~?%"/>
+    <passive name="방황하는 구름" info="원소 전투스킬 데미지 증가 ?%, 일반공격, 강공격 적중시 ?%의 확률로 15초간 지속하며 기본 공격력의 ?% 광역 피해를 주는 구체를 소환합니다. [쿨타임 30초]" rate="12,15,18,21,24\160,200,240,280,320" />
+    <level level="20/40/50/60/70/80/90" damage="48~133\164~261\292~341\373~423\455~506\537~590\621~674" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] Dvalin과 전 마스터 인 Anemo Archon을 상징하는 클라우드 아틀라스입니다. 그것은 북부 지역의 바람과 구름을 자세히 설명하고 하늘과 바람의 힘을 포함합니다." />
+  </item>
+
+  <item code="blackcliff_amulet" name="흑암 홍옥" icon="blackcliff_amulet.png" type="catalyst" rare="4" atk_rate="42~?">
+    <option name="치명타 피해" rate="12%~?%"/>
+    <passive name="내쫓다" info="적 처치시 공격력 증가 ?% [지속시간 30초, 최대 3회 중첩, 각각 따로 지속시간 적용]" rate="12,15,18,21,24" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 블랙 스톤으로 만든 신비한 촉매제. 그것은 지구 깊은 곳에서 오는 떨림과 동기화되어 맥동하는 것처럼 보이는 불길한 진홍빛 빛을 가지고 있습니다." />
+  </item>
+  <item code="eye_of_perception" name="소심" icon="eye_of_perception.png" type="catalyst" rare="4" atk_rate="41~?">
+    <option name="기본 공격력" rate="12%~?%"/>
+    <passive name="내쫓다" info="일반공격, 강공격 적중시 ?%의 확률로 마법공격 발생, 마법 공격은 ?%의 피해를 가지며 최대 4회에 걸쳐 튕기면서 공격합니다. 쿨타임 ?초" rate="240,270,300,330,360\12,11,10,9,8" />
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 마음의 순결에 도달하는 힘이 있다고하는 희미한 검은 유약 진주." />
+  </item>
+  <item code="favonius_codex" name="페보니우스 비전" icon="favonius_codex.png" type="catalyst" rare="4" atk_rate="42~?">
+    <option name="원소 충전 효율" rate="10%~?%"/>
+    <passive name="크리티컬 차지" info="공격으로 치명타가 발생하면 ?%의 화률로, 6pt의 에너지를 회복하는 원소 구슬 생성. 쿹타임 ?초" rate="60,70,80,90,100\12,10.5,9,7.5,6" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 파 보니 우스 기사단 학자들의 비밀 고서. 그것은 요소와 물질의 논리와 힘을 설명합니다." />
+  </item>
+  <item code="mappa_mare" name="마파 마레" icon="mappa_mare.png" type="catalyst" rare="4" atk_rate="44~?">
+    <option name="엘리멘탈 마스터리" rate="24~?"/>
+    <passive name="주입 스크롤" info="원소 반응을 유발하면 10 초 동안 원소 데미지 보너스 10%를 얻습니다. 최대 2회 중첩됩니다." rate="" />
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 외국 상인을 통해 Liyue에 어떻게 든 찾아낸 인근 해류와 기후를 보여주는 해상 차트." />
+  </item>
+  <item code="prototype_malice" name="프로토 타입 악의" icon="prototype_malice.png" type="catalyst" rare="4" atk_rate="41~?">
+    <option name="기본 HP" rate="12%~?%"/>
+    <passive name="황금 도금" info="Elemental Burst를 사용하면 6초 동안 2초마다 ?에너지가 재생됩니다. 또한 모든 파티원은이 기간 동안 2초마다 ?% HP를 재생합니다." rate="4,4.5,5,5.5,6\4,4.5,5,5.5,6" />
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 블랙 클리프 대장간에서 비밀리에 지키고있는 칙칙한 금박 촉매. 하늘에서 나는 빛으로 빛나는 것 같습니다." />
+  </item>
+  <item code="royal_grimoire" name="왕실의 비전록" icon="royal_grimoire.png" type="catalyst" rare="4" atk_rate="44~?">
+    <option name="기본 공격력" rate="6%~?%"/>
+    <passive name="에너지 폭발" info="일반 공격이 적중하면 ?% 확률로 적에게 에너지 쇼크가 발생하여 ?%의 데미지를 입힙니다. [쿨타임 10초]" rate="240,300,360,420,480" />
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 한때 Mondstadt의 왕실 마법사가 소유했던 책. 그것은 신실하고 포괄적 인 역사적 기록과 마법 주문을 포함합니다." />
+  </item>
+  <item code="sacrificial_fragments" name="제례의 악장" icon="sacrificial_fragments.png" type="catalyst" rare="4" atk_rate="44~?">
+    <option name="원소 마스터리" rate="48~?"/>
+    <passive name="구성" info="원소 전투스킬 사용시 ?%확률로 스킬의 재사용 시간 초기화 및 ?초마다 쿨타임 적용" rate="40,50,60,70,80\30,25,20,15,10" />
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 텍스트가 더 이상 읽을 수없는 풍화 된 스크립트입니다. 시간의 바람에 침식 된 저주받은 물건.
+&#xA;
+&#xA;초기에 몬트 슈타 트 사람들은 신을 기쁘게하기 위해 바람이 부는 절벽 위에 극장을 짓는 전통을 가졌습니다.
+&#xA;의식은 신들이 이야기와 발라드를 즐겼다 고 믿었 기 때문에 공연의 형태를 취했습니다.
+&#xA;이 스크립트는 수천 년이 지났으며 더 이상 읽을 수 없습니다.
+&#xA;
+&#xA;오래 전, 폭풍의 군주와 북방의 늑대 왕 사이에 전쟁이 벌어졌습니다 . Mondstadt는 눈보라에 휩싸 였고 눈은 모래처럼 찔 렸습니다.
+&#xA;추위를 견딜 수있는 그룹은 더 이상 동쪽 절벽 꼭대기에 신사를 세울 수 없습니다. 그곳에서 그들은 신성한 자비와 보호를 위해기도했습니다.
+&#xA;
+&#xA;바람은 잠시 동안 불지 만 시간의 파괴는 지속적이고 가차없고 돌이킬 수 없습니다.
+&#xA;바람의 신은 책의 페이지 사이를 이동할 수 있지만 결국 무자비한 시간의 신은 읽을 수있는 단어가 하나도 남지 않을 때까지 그들을 먹어 치울 것입니다.
+&#xA;
+&#xA;그러나 시간의 폭행과 바람의 폭행은 종종 심장에 동일한 피해를 입 힙니다.
+&#xA;아마도 이것이 후대에 신사가 항상 바람에, 바람에만 있었다고 가정 한 이유 일 것입니다." />
+  </item>
+  <item code="solar_pearl" name="태양 진주" icon="solar_pearl.png" type="catalyst" rare="4" atk_rate="42~?">
+    <option name="CRIT 비율" rate="6%~27.5%"/>
+    <passive name="솔라 샤인" info="일반 공격은 6초 동안 원소 스킬과 원소 버스트 데미지를 ?% 증가시킵니다. 마찬가지로 Elemental Skill이나 Elemental Burst는 6초 동안 일반 공격력을 ?% 증가시킵니다." rate="20,25,30,35,40\20,25,30,35,40" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 태양과 달의 빛을 품고 따뜻한 힘으로 맥동하는 미지의 물질로 만든 칙칙하고 금빛 진주." />
+  </item>
+  <item code="the_widsith" name="음유시인의 악장" icon="the_widsith.png" type="catalyst" rare="4" atk_rate="42~?">
+    <option name="치명타 피해" rate="12%~?%"/>
+    <passive name="데뷔" info="캐릭터가 필드에 등장하면 랜덤으로 화음효과를 얻습니다.
+&#xA;1. 공격력 증가 ?%
+&#xA;2.모든 속성 데미지 증가 ?%
+&#xA;3.원소 마스터리 증가 ?" rate="60,75,90,105,120\48,60,72,84,96\240,300,360,420,480" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 악보로 가득 찬 무거운 노트북. 나방 피해와 심한 마모로 고통을 겪고 있지만, 손으로 쓴 단어에는 여전히 많은 힘이 있습니다." />
+  </item>
+  <item code="wine_and_song" name="뒷골목 술과 시" icon="wine_and_song.png" type="catalyst" rare="4" atk_rate="42~?">
+    <option name="원소 충전 효율" rate="10%~?%"/>
+    <passive name="솔라 샤인" info="파티 내 몬드성 캐릭터 숫자에 따라서 공격력 ?%, 이동속도 ?% 증가" rate="8,10,12,14,16\3,3.5,4,4.5,5" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 작곡가가 잊혀진 과거 귀족 시대의 노래 책. 그것은 어떤 영웅적인 무법자의 이야기를 기록합니다." />
+  </item>
+
+  <item code="amber_catalyst" name="호박색 촉매" icon="amber_catalyst.png" type="catalyst" rare="3" atk_rate="40~?">
+    <option name="엘리멘탈 마스터리" rate="16~?"/>
+    <passive name="엘리멘탈 마스터리" info="일반 공격은 6초 동안 모든 원소 데미지를 ?% 증가시킵니다. 최대 2회 중첩됩니다." rate="6,7.5,9,10.5,12" />
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 태양 아래에서 따뜻한 후광을 얻는 호박색으로 조각 된 촉매제." />
+  </item>
+  <item code="jade_orb" name="비취 보주" icon="jade_orb.png" type="catalyst" rare="3" atk_rate="40~?">
+    <option name="엘리멘탈 마스터리" rate="20~?"/>
+    <passive name="여울" info="Vaporize, Electro-Charged, Frozen 또는 Hydro-infused Swirl 반응을 일으키면 기본 공격력이 12초 동안 ?% 증가합니다." rate="20,25,30,35,40" />
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] Liyue 북쪽 Jueyunjian에서 단단한 옥으로 조각 된 촉매제. 작고 가볍고 내구성이 있습니다." />
+  </item>
+  <item code="magic_guide" name="매직 가이드" icon="magic_guide.png" type="catalyst" rare="3" atk_rate="38~?">
+    <option name="엘리멘탈 마스터리" rate="41~?"/>
+    <passive name="폭풍과 해일의 파멸" info="Hydro 또는 Electro의 영향을받는 적에 대한 DMG를 ?% 증가시킵니다." rate="12,15,18,21,24" />
+    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 버전 12. 버전 11에 대한 수정 사항과 최근 개발 사항을 기반으로 한 새로운 추가 사항이 포함 된 재 인쇄물입니다.
+&#xA;
+&#xA;이 버전의 Magic Guide는 출판되었을 때 많은 논란을 불러 일으켰습니다.
+&#xA;VII 장 : Anemo 요소의 원리에서 볼 수있는 기본 상식에 대한 도전에 더하여 수력 및 전기 요소의 기본 원리에 관한 오류도 관찰 할 수 있습니다.
+&#xA;분명히이 책은 출판 전에 동료 심사를 거치지 않았습니다. 그럼에도 불구하고이 책은 현존하는 마법에 대한 가장 권위있는 가이드입니다." />
+  </item>
+  <item code="otherworldly_story" name="다른 세상 이야기" icon="otherworldly_story.png" type="catalyst" rare="3" atk_rate="39~?">
+    <option name="에너지 재충전" rate="8.5%~?%"/>
+    <passive name="에너지 샤워" info="수집 된 각 원소 보주 또는 입자는 1% HP를 회복합니다." rate="" />
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 가치가 전혀없는 값싼 판타지 소설. 그것이 촉매 작용의 힘을 가지고 있다는 주장도 순수한 환상입니다." />
+  </item>
+  <item code="thrilling_tales_of_dragon_slayers" name="스릴 넘치는 드래곤 슬레이어 이야기" icon="thrilling_tales_of_dragon_slayers.png" type="catalyst" rare="3" atk_rate="39~?">
+    <option name="기본 HP" rate="10.2%~?%"/>
+    <passive name="유산" info="캐릭터 전환시 필드를 차지하는 새로운 캐릭터의 공격력은 10초 동안 ?% 증가합니다. 이 효과는 20초에 한 번만 발생합니다." rate="24,30,36,42,48" />
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 드래곤 사냥을 시작하는 다섯 명의 영웅 밴드에 대한 가상의 이야기. 제대로 작성되지 않았고 구조적으로 일관성이 없습니다. 그 가치는 실패에서 배울 수있는 많은 교훈에 있습니다." />
+  </item>
+  <item code="twin_nephrite" name="쌍둥이 연옥" icon="twin_nephrite.png" type="catalyst" rare="3" atk_rate="40~?">
+    <option name="CRIT 비율" rate="3.4%~?%"/>
+    <passive name="게릴라 전술"
+             info="적을 처치하면 15 초 동안 이동 속도와 공격력이 ?% 증가합니다."
+             rate="12,14,16,18,20" />
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 두 개의 비취 돌을 연결하여 만든 비취 펜던트." />
+  </item>
+
+  <item code="pocket_grimoire" name="포켓 그리 모어" icon="pocket_grimoire.png" type="catalyst" rare="2" atk_rate="23~?">
+    <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 마술 시험에 합격하는 데 필요한 필수 정보를 담은 신중하게 편집 된 노트북입니다." />
+  </item>
+  <item code="apprentices_notes" name="견습생 노트" icon="apprentices_notes.png" type="catalyst" rare="2" atk_rate="33~?">
+    <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 최고의 학생이 남긴 메모. 많은 유용한 주문이 나열되어 있으며 필기가 아름답습니다." />
+  </item>
+
+  <item code="wolfs_gravestone" name="늑대의 말로" icon="wolfs_gravestone.png" type="claymore" rare="5" atk_rate="46~?">
+    <option name="기본 공격력" rate="10.8%~?%"/>
+    <passive name="늑대 추적기" 
+             info="기본 공격력 증가 ?%, HP ?%미만인 적을 공격시 파티 내의 모든 캐릭터의 기본 공격력 증가 ?% [12초 지속, 쿨타임 30초]" 
+             rate="20,25,30,35,40\40,50,60,70,80"/>
+    <level level="20/40/50/60/70/80/90" damage="46~122\153~235\266~308\?~382\414~457\488~532\563~608" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 울프 나이트가 사용하는 롱소드. 원래는 도시의 대장장이가 기사에게 준 무거운 철판 이었으나, 늑대와의 우정 덕분에 전설적인 힘을 부여 받았습니다." />
+  </item>
+  <item code="skyward_pride" name="하늘의 긍지" icon="skyward_pride.png" type="claymore" rare="5" atk_rate="45~?">
+    <option name="원소 충전 효율" rate="8%~?%"/>
+    <passive name="하늘을 찢는 용의 척추"
+             info="데미지 증가 ?%, 원소 폭팔 시전 후 일반공격, 강공격 시 기본 공격력의 ?% 데미지를 가합니다 [최대 8회, 20초 지속]"
+             rate="8,10,12,14,16\80,100,120,140,160"/>
+    <level level="20/40/50/60/70/80/90" damage="45~?\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 하늘을 날아 다니는 드 발린의 자존심을 상징하는 클레이 모어. 휘두르면 드 발린이 하늘을 지배하고 바람이 뿜어 져 나오면서 깊은 윙윙 거리는 소리를 낸다." />
+  </item>
+  
+  <item code="blackcliff_slasher" name="흑암 참도" icon="blackcliff_slasher.png" type="claymore" rare="4" atk_rate="42~?">
+    <option name="치명타 피해" rate="12%~?%"/>
+    <passive name="이점을 누르십시오"
+             info="적 처치 시 공격력 증가 ?% [지속시간 30초, 최대 3회 중첩, 각각 따로 지속시간 적용]"
+             rate="12,15,18,21,24"/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 블랙 클리프 대장간의 매우 튼튼한 대검. 블레이드에서 pommel까지 진한 진홍색을 띤다." />
+  </item>
+  <item code="favonius_greatsword" name="페보니우스 대검" icon="favonius_greatsword.png" type="claymore" rare="4" atk_rate="41~?">
+    <option name="치명타 확률" rate="8%~?%"/>
+    <passive name="크리티컬 차지"
+             info="공격이 치명타를 입히면 ?% 확률로 6pt의 원소 에너지 획복하는 원소 수정 구슬을 생성. 이 효과는 ?초 마다 1회 적용됩니다."
+             rate="60,70,80,90,100\12,10.5,9,7.5,6"/>
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 파 보니 우스 기사단의 무거운 의식 용 검. 그것은 원소의 힘을 쉽게 전달하고 매우 파괴적입니다.
+&#xA;
+&#xA;파 보니 우스 기사단의 무거운 의식 용 검. 일반적으로 그랜드 마스터와 교회 모두의 승인 후에 만 ​​발행됩니다.
+&#xA;Mondstadt의 장인들은 Monadstadt의 고대 유물을 연구하여 원소 친화력에서 몇 가지 결과를 얻었습니다.
+&#xA;이 무거운 대검은 파 보니 우스의 기사에게 수여되는 명예 일뿐만 아니라 몬트 슈타 트 수호자들의 노력과 기술의 결실이기도합니다.
+&#xA;쉽게 원소의 힘을 전달할 수 있습니다. 그것의 소지자는 파괴가 목적을위한 수단 일 뿐이며, 그 목적은 반드시 방어해야하는 것을 방어하는 것임을 기억하는 것이 좋습니다.
+&#xA;
+&#xA;늑대 새끼 Rostam의 Favonius Bladework의 한 손 형태 만이 오늘날 살아남습니다.
+&#xA;역사상 또 다른 형태가 사라졌습니다. 빛의 사자 인 아룬 돌린은 전투에서 롱소드와 그레이트 소드를 함께 휘두를 수있었습니다.
+&#xA;엄청난 힘이 필요했기 때문에 특별한 힘을 가진 은사 만이이 형태를 시도 할 수있었습니다. 따라서 곧 사라졌습니다.
+&#xA;
+&#xA;자라면서 가까운 동료 인 Arundolyn은 긴 기사단 출신이었고 Rostam은 농부 가족에서 태어났습니다.
+&#xA;그들의 어린 시절 우정은 영웅주의에 대한 공동의 꿈에서 만들어졌습니다. 젊은이로서 그들은 성숙한 성인이되어 동료 기사가되었고, 한 명은 그랜드 마스터가되고 다른 한 명은 그의 조수가되었습니다.
+&#xA;
+&#xA;그랜드 마스터 Adrundolyn은 비전 전달자가 아니 었습니다. 그의 엄청난 힘은 타고난 재능과 강렬한 훈련의 혼합에서 나왔습니다.
+&#xA;그랜드 마스터의 힘은 ​​그의 자존심이었고 그랜드 마스터는 기사단의 자부심이었습니다. 아니, 몬트 슈타 트의 모든 자부심이었습니다.
+&#xA;Rostam이 그의 운명을 만난 후 Arundolyn은 다시는 힘을 나타내지 않았습니다. 사나운 괴물에 도전하는 것이 더 이상 영광의 원천이 아니었기 때문입니다." />
+  </item>
+  <item code="lithic_blade" name="천암고검" icon="lithic_blade.png" type="claymore" rare="4" atk_rate="41~?">
+    <option name="치명타 피해" rate="16%~?%"/>
+    <passive name="Lithic Axiom-Unity"
+             info="팀 내 리월 캐릭 숫자에 따라서 공격력 ?%, 치명타 확률 ?% 증가"
+             rate="6,7,8,9,10\2,3,4,5,6"/>
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] Liyue의 기반암에서 조각하고 조각 한 대검." />
+  </item>
+  <item code="prototype_aminus" name="고화 프로토타입" icon="prototype_aminus.png" type="claymore" rare="4" atk_rate="44~?">
+    <option name="기본 공격력" rate="6%~?%"/>
+    <passive name="과즙"
+             info="일반 공격 및 강공격 시 작은 영역 내의 적에게 50% 확률로 ?%의 추가피해를 입힙니다. [쿨타임 15초]"
+             rate="320,390,460,530,600"/>
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 블랙 클리프 대장간에서 발견 된 고대 대검. 그것은 현실 자체를 똑바로 꿰 뚫을 수 있다고 느끼는 엄청난 힘으로 흔들립니다." />
+  </item>
+  <item code="raincutter" name="빗물 베기" icon="raincutter.png" type="claymore" rare="4" atk_rate="42~?">
+    <option name="원소 마스터리" rate="36~"/>
+    <passive name="폭풍과 해일의 파멸"
+             info="물, 번개 원소에 피해를 입은 적에게 주는 피해 증가 ?%"
+             rate="20,24,28,32,36"/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 날카로운 날이없는 형광 대검으로, 무차별 한 힘과 강력한 힘으로 적을 무너 뜨립니다." />
+  </item>
+  <item code="royal_greatsword" name="왕실의 대검" icon="royal_greatsword.png" type="claymore" rare="4" atk_rate="44~?">
+    <option name="물리 피해 증가" rate="6%~?%"/>
+    <passive name="용감한"
+             info="강공격 후 공격력, 방어력 증가 ?% [10초 지속 쿨타임 20초]"
+             rate="24,30,36,42,48"/>
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 몬트 슈타 트의 이전 통치자들이 소유했던 오래된 대검. 그것은 최고 품질의 재료로 만들어졌으며 시간의 시험을 견뎌냈습니다. 왕족 전용 무기입니다." />
+  </item>
+  <item code="serpent_spine" name="뱀 척추" icon="serpent_spine.png" type="claymore" rare="4" atk_rate="42~?">
+    <option name="기본 공격" rate="9%~?%"/>
+    <passive name="웨이브 스플리터"
+             info="캐릭터가 필드에있는 4초마다 5% 더 많은 DMG를 처리하고 4% 더 많은 DMG를받습니다. 이 효과는 최대 5번 중첩되며 캐릭터가 필드를 떠나도 초기화되지 않지만 캐릭터가 DMG를 받으면 해제됩니다."
+             rate=""/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 기원이 고대 바다 인 희귀 한 무기. 흔들리면서 영원한 파도의 소리를들을 수 있습니다." />
+  </item>
+  <item code="the_bell" name="시간의 검" icon="the_bell.png" type="claymore" rare="4" atk_rate="42~?">
+    <option name="원소 충전 효율" rate="10%~?%"/>
+    <passive name="회귀"
+             info="원소 전투 스킬 사용시 ?% 확률로 스킬의 재사용 시간 초기화 및 ?초 마다 쿨타임 적용"
+             rate="40,50,60,70,80\30,26,22,18,14"/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 기원이 고대 바다 인 희귀 한 무기. 흔들리면서 영원한 파도의 소리를들을 수 있습니다." />
+  </item>
+  <item code="whiteblind" name="Whiteblind" icon="whiteblind.png" type="claymore" rare="4" atk_rate="42~?">
+    <option name="기본 DEF" rate="11.3%~?%"/>
+    <passive name="주입 블레이드"
+             info="적중시 일반 또는 차지 공격은 6초 동안 기본 공격력과 방어력을 6% 증가시킵니다. 최대 4회 중첩됩니다. 0.5초에 한 번만 발동 할 수 있습니다."
+             rate="6,7.5,9,10.5,12"/>
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 칼날의 한 부분이있는 이국적인 검이 무딘 상태로 남았습니다. 그것은 외국 상인의 손을 통해 Liyue로 나아갔습니다. 그것을 사용하는 방법을 아는 사람의 손에 엄청나게 강력합니다." />
+  </item>
+
+  <item code="bloodtainted_greatsword" name="피투성이 대검" icon="bloodtainted_greatsword.png" type="claymore" rare="3" atk_rate="38~?">
+    <option name="엘리멘탈 마스터리" rate="41~?"/>
+    <passive name="불과 천둥의 파멸"
+             info="파이로나 일렉트로의 영향을받은 적에 대한 데미지를 ?% 증가시킵니다."
+             rate="12,15,18,21,24"/>
+    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 용의 피로 코팅되어 손상되지 않는 강철 검. 그러나이 효과는 사용자에게 확장되지 않습니다." />
+  </item>
+  <item code="debate_club" name="훌륭한 대화 수단" icon="debate_club.png" type="claymore" rare="3" atk_rate="39~?">
+    <option name="기본 공격력" rate="7.7%~?%"/>
+    <passive name="무딘 결론"
+             info="원소 전투 스킬 이후 일반 공격 시 ?%의 추가 공격 발생 [15초 지속되며 쿨타임 3초]"
+             rate="60,75,90,105,120"/>
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 고급 강철로 만든 편리한 클럽. 모든 토론자의 무기고에서 가장 설득력있는 추론 라인." />
+  </item>
+  <item code="ferrous_shadow" name="철 그림자" icon="ferrous_shadow.png" type="claymore" rare="3" atk_rate="39~?">
+    <option name="기본 HP" rate="7.7%~?%"/>
+    <passive name="구부리지 않음"
+             info="HP가 70% 아래로 떨어지면 차지 공격 데미지가 30% 증가하고 차지 공격은 방해하기가 훨씬 더 어려워집니다."
+             rate="70,75,80,75,90\30,35,40,45,50"/>
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 빛의 사자 Arundolyn의 유명한 검의 복제품. 이 검을 손에 들고 전설적인 영웅의 힘을 느껴보세요! 자신이 위대한 전사라고 상상해보십시오! 참고 : 백일몽은 실시간 전투에서 권장되지 않습니다." />
+  </item>
+  <item code="quartz" name="석영" icon="quartz.png" type="claymore" rare="3" atk_rate="40~?">
+    <option name="엘리멘탈 마스터리" rate="16~?"/>
+    <passive name="잔류 열"
+             info="과부하, 용융, 연소, 기화 또는 파이로 주입 소용돌이 반응을 일으키면 12초 동안 기본 공격력이 ?% 증가합니다."
+             rate="20,25,30,35,40"/>
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 광택이 나는 검은 석영으로 만든 단순하지만 무거운 대검입니다. 우아함과 품위가 있습니다." />
+  </item>
+  <item code="skyrider_greatsword" name="하늘 기수 대검" icon="skyrider_greatsword.png" type="claymore" rare="3" atk_rate="39~?">
+    <option name="물리적 DMG 보너스" rate="7.7~?"/>
+    <passive name="용기"
+             info="적중시 일반 또는 차지 공격은 6초 동안 기본 공격력과 방어력을 ?% 증가시킵니다. 최대 4회 중첩됩니다. 0.5초에 한 번만 발동 할 수 있습니다."
+             rate="6,7,8,9,10"/>
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 믿을 수있는 강철 검. 전설적인 스카이 라이더가 한때 날아 다니는 검을 타려고했습니다… 두 번째로." />
+  </item>
+  <item code="white_iron_greatsword" name="흰색 철제 대검" icon="white_iron_greatsword.png" type="claymore" rare="3" atk_rate="40~?">
+    <option name="기본 DEF" rate="6.4%~?%"/>
+    <passive name="약자를 컬"
+             info="상대를 쓰러 뜨리면 HP가 ?% 회복됩니다."
+             rate="8,10,12,14,16"/>
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 백철로 만든 클레이 모어. 전력 저하없이 가볍습니다. 평균적인 힘으로 휘 두르더라도 효과가 있으며, 육체적으로 더 강한 사람의 손에 매우 치명적입니다." />
+  </item>
+  
+  <item code="old_mercs_pal" name="올드 머의 친구" icon="old_mercs_pal.png" type="claymore" rare="3" atk_rate="33~?">
+    <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 전투에서 검증 된 대검." />
+  </item>
+  <item code="waster_greatsword" name="낭비 자 대검" icon="waster_greatsword.png" type="claymore" rare="3" atk_rate="23~?">
+    <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 충분한 의지력으로 휘두르면 산을 깨뜨릴 수있을만큼 강력한 철판." />
+  </item>
+  
   <item code="skyward_blade" name="천공의 검" icon="skyward_blade.png" type="sword" rare="5" atk_rate="46~563">
     <option name="원소 충전 효율" rate="12%~50.3%"/>
     <passive name="Sky-Piercing Fang" info="- 받는 치유량 증가 +?%&#xA;- 치명타 확률 +?%&#xA;- 치명타 시 ?% 확률로 원소 입자가 1개 드롭된다 [?초에 한번 씩 발동]" rate="20,24,28,32,36\4,5,6,7,8\80,85,90,95,100\9,8,7,6,5"/>
