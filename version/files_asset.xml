@@ -58,6 +58,21 @@
   <asset url="asset/img.icon/element/hydro.png" file="hydro.png" directory="/asset/img/static" compulsion="0"/>
   <asset url="asset/img.icon/element/pyro.png" file="pyro.png" directory="/asset/img/static" compulsion="0"/>
 
+  <asset url="asset/img.icon/weapon/bow/amos_bow.png" file="amos_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/compound_bow.png" file="compound_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/ebony_bow.png" file="ebony_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/favonius_warbow.png" file="favonius_warbow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/hunters_bow.png" file="hunters_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/raven_bow.png" file="raven_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/royal_bow.png" file="royal_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/rust.png" file="rust.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/sacrificial_bow.png" file="sacrificial_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/seasoned_hunters_bow.png" file="seasoned_hunters_bow.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/sharpshooters_oath.png" file="sharpshooters_oath.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/skyward_harp.png" file="skyward_harp.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/slingshot.png" file="slingshot.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/bow/the_stringless.png" file="the_stringless.png" directory="/asset/img/weapon" compulsion="0"/>
+  
   <asset url="asset/img.icon/weapon/sword/blackcliff_longsword.png" file="blackcliff_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/cool_steel.png" file="cool_steel.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/dark_iron_sword.png" file="dark_iron_sword.png" directory="/asset/img/weapon" compulsion="0"/>
