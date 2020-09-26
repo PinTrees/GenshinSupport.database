@@ -1,4 +1,140 @@
 <data>
+  <item code="amos_bow" name="아모스의 활" icon="amos_bow.png" type="bow" rare="5" atk_rate="46~563">
+    <option name="기본 공격력" rate="10.8%~49.6%"/>
+    <passive name="Strong-Willed" info="일반 공격과 조준 사격 공격력 증가 ?%, 화살 발사 후 0.1초마다 공격력 증가 ?% [5회 중첩]" rate="12,15,18,21,24\8,10,12,14,16" />
+    <level level="20/40/50/60/70/80/90" damage="46~122\153~235\266~308\?~382\414~457\488~532\563~608" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires the more." />
+  </item>
+  <item code="skyward_harp" name="천공의 날개" icon="skyward_harp.png" type="bow" rare="5" atk_rate="45~???">
+    <option name="치명타 확률" rate="4.8%~49.6%"/>
+    <passive name="Echoing Ballad" info="치명타 피해 증가 ?%, 공격 적중 시 ?확률로 기본 공격력의 125%의 데미지를 가합니다. ?초 마다 1회 발동" rate="20,25,30,35,40\60,70,80,90,100\4,3.5,3,2.5,2" />
+    <level level="20/40/50/60/70/80/90" damage="45~?\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within." />
+  </item>
+  
+  <item code="alley_hunter" name="뒷골목 사냥꾼" icon="alley_hunter.png" type="bow" rare="4" atk_rate="41~???">
+    <option name="치명타 확률" rate="8%~?%"/>
+    <passive name="Urban Guerrilla" info="캐릭터가 필드에 있을때 4초마다 공격력 증가 ?%및 치명타 피해 증가 ?% [캐릭터가 필드를 벗어나거나, 피격 시 초기화 됩니다.]" rate="4,5,6,7,8\4,5,6,7,8" />
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught." />
+  </item>
+  <item code="blackcliff_warbow" name="흑암 장궁" icon="blackcliff_warbow.png" type="bow" rare="4" atk_rate="44~???">
+    <option name="기본 공격력" rate="6%~27.5%"/>
+    <passive name="Press the Advantage" info="적을 쓰러트리면 공격력 증가 ?% [지속시간 30초, 최대 3중첩, 각각 따로 지속시간 적용]" rate="12,15,18,21,24" />
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="A bow made of blackstone that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use." />
+  </item>
+  <item code="compound_bow" name="Compound Bow" icon="compound_bow.png" type="bow" rare="4" atk_rate="44~???">
+    <option name="물리적 DMG 보너스" rate="15%~?%"/>
+    <passive name="주입 화살" info="일반 공격과 조준 사격은 6초 동안 공격력을 ?%, 일반 공격 속도를 ?% 증가시킵니다. 최대 4회 중첩됩니다. 0.3초에 한 번만 발동 할 수 있습니다." rate="4,5,6,7,8\1.2,1.5,1.8,2.1,2.4" />
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 먼 땅에서 온 이국적인 금속 활. 유지 관리가 극히 어렵지만 고개를 끄덕이고 엄청난 힘으로 발사하기 쉽습니다." />
+  </item>
+  <item code="favonius_warbow" name="페보니우스 활" icon="favonius_warbow.png" type="bow" rare="4" atk_rate="44~???">
+    <option name="원소 충전 효율" rate="13.3%~?%"/>
+    <passive name="주입 화살" info="공격이 치명타를 입히면 원소 에너지 6pt 회복의 구슬 발생, ?초 마다 1회 적용" rate="12,10.5,9,7.5,6" />
+    <level level="20/40/50/60/70/80/90" damage="41~99\125~184\210~238\264~293\319~347\373~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 파 보니 우스 기사단의 표준 발행 리 커브 활. 최고의 궁수 만이 잠재력을 최대한 발휘할 수 있습니다.
+&#xA;
+&#xA;파 보니 우스 기사단이 사용하는 표준 곡궁 활 . 명령을 수행 한 최고의 궁수에게만 지급됩니다.
+&#xA;전문적으로 제작 된 오크 프레임은 뛰어난 강도를 제공하며 금속 부품을 추가하여 사용하기 쉽습니다.
+&#xA;활현은 연금술과 마법의 비밀로 매혹되어 궁수의 손가락을 보호합니다.
+&#xA;이 활은 Mondstadt의 합당한 수호자에게 보상으로 사용되며 그들이 수호를 계속할 수있는 훌륭한 도구입니다.
+&#xA;
+&#xA;Knights of Favonius는 한때 Outriders로 알려진 강력한 아처 스카우트 팀을 보유하고있었습니다.
+&#xA;팀은 Liyue 의 용병 리더에 의해 설립되었으며 , 그는 평생의 지식을 Outriders에게 전수했습니다.
+&#xA;
+&#xA;그들이 습득 한 추적 기술과 위험이 닥쳤을 때를 감지하는 능력은 모든 기사들 사이에서 독특했습니다.
+&#xA;따라서 아웃 라이더의 기술은 파 보니 우스 기사단에게 매우 중요했습니다.
+&#xA;
+&#xA;이것은 기사들에게 알려지지 않은 이유로 첫 번째 아웃 라이더가 궁극적으로 명령을 떠날 때까지 지속되었습니다.
+&#xA;그날부터 아웃 라이더 팀은 예전 자신의 껍질이되었습니다.
+&#xA;그 구조와 이름은 보존되었지만 전문성은 사라졌습니다.
+&#xA;그럼에도 불구하고 아웃 라이더 타이틀의 존엄성을 유지하기 위해 지칠 줄 모르는 사람들이 여전히 있습니다." />
+  </item>
+  <item code="prototype_crescent" name="프로토 타입 초승달" icon="prototype_crescent.png" type="bow" rare="4" atk_rate="42~???">
+    <option name="CRIT DMG" rate="12%~55.1%"/>
+    <passive name="돌아 오지 않음" info="약점에 대한 조준 사격은 10초 동안 이동 속도를 ?%, 공격력을 ?% 증가시킵니다." rate="10,?,?,?,?\36,?,?,?,?" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] Black Rock Factory에 숨겨진 프로토 타입 장궁. 타겟팅은 황혼을 통과하는 달빛과 같습니다." />
+  </item>
+  <item code="royal_bow" name="왕실의 장궁" icon="royal_bow.png" type="bow" rare="4" atk_rate="42~???">
+    <option name="치명타 확률" rate="6%~?%"/>
+    <passive name="왕실 명사수" info="조준 사격의 피해량 증가 ?% [쿨타임 10초]" rate="100,125,150,175,200\36,?,?,?,?" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 몬트 슈타 트의 이전 통치자들이 소유했던 오래된 왕실 장궁. 수많은 세대가 지난 후에도 활줄은 여전히 ​​단단하며 여전히 큰 힘으로 화살을 발사 할 수 있습니다." />
+  </item>
+  <item code="rust" name="녹슨 활" icon="rust.png" type="bow" rare="4" atk_rate="42~???">
+    <option name="물리 피해 증가" rate="9%~?%"/>
+    <passive name="빠른 발사" info="일반 공격 데미지 증가 ?%, 조준 사격의 데미지 저하 ?%" rate="40,50,60,70,80\8,9,10,11,12" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 완전히 녹슨 철제 대궁. 평범한 사람은 해고는 고사하고 들어 올릴 힘도 부족합니다." />
+  </item>
+  <item code="sacrificial_bow" name="제례 활" icon="sacrificial_bow.png" type="bow" rare="4" atk_rate="44~???">
+    <option name="원소 충전 효율" rate="6.7%~?%"/>
+    <passive name="구성" info="원소 전투 스킬 사용 시 ?%의 확률로 스킬의 재사용 시간 초기화 및 ?초 마다 쿨타임 적용" rate="40,50,60,70,80\30,26,22,18,14" />
+    <level level="20/40/50/60/70/80/90" damage="44~119\144~226\252~261\319~361\387~429\455~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 시간이 지남에 따라 석화되는 의식 용 사냥 용 활. 그 위에있는 장신구는 여전히 보입니다. 그것은 사용자에게 시간의 바람을 견딜 수있는 힘을줍니다." />
+  </item>
+  <item code="the_stringless" name="절현" icon="the_stringless.png" type="bow" rare="4" atk_rate="42~???">
+    <option name="원소 마스터리" rate="36~???"/>
+    <passive name="화살없는 노래" info="원소 전투 스킬의 데미지 증가 ?%" rate="24,30,36,42,48" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 한때 특별한 도구로 사용되었던 활. 더 이상 사람들을 일으키고 춤을 출 수 없습니다." />
+  </item>
+  <item code="the_viridescent_hunt" name="Viridescent Hunt" icon="the_viridescent_hunt.png" type="bow" rare="4" atk_rate="42~???">
+    <option name="물리적 DMG 보너스" rate="9%~??%"/>
+    <passive name="신록의 바람" info="적중시 일반 및 조준 사격 공격은 ?% 확률로 사이클론을 생성하여 주변 적을 지속적으로 끌어 당겨 ?초 동안 0.5초마다 공격력의 ?%를 피해를 줍니다. 이 효과는 ?초에 한 번만 발생합니다." rate="50,?,?,?,?\4,?,?,?,?\24,?,?,?,?\16,?,?,?,?" />
+    <level level="20/40/50/60/70/80/90" damage="42~109\135~205\231~266\292~327\353~388\414~449\475~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 순수한 녹색 사냥 용 활. 이것은 한때 숲이 집인 특정 사냥꾼의 소유였습니다." />
+  </item>
+  
+  <item code="ebony_bow" name="에보니 보우" icon="ebony_bow.png" type="bow" rare="3" atk_rate="40~???">
+    <option name="기본 공격" rate="6.3%~??%"/>
+    <passive name="학살" info="메카 노이드 폐허 적에 대한 데미지가 ?% 증가합니다." rate="40,50,60,70,80" />
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 평범한 활보다 팔다리가 뻣뻣한 흑단 나무로 만든 장궁. 또한 훨씬 더 강력한 무기입니다." />
+  </item>
+  <item code="messenger" name="전령" icon="messenger.png" type="bow" rare="3" atk_rate="40~???">
+    <option name="기본 공격" rate="6.8%~??%"/>
+    <passive name="CRIT DMG" info="약한 지점에 대한 조준 사격은 CRIT DMG로 추가 ?% 공격 데미지를줍니다. 10초에 한 번만 발생할 수 있습니다." rate="100,125,150,175,200" />
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 기본적인 나무 활. 한때 장거리 통신 도구로 사용되었다고합니다." />
+  </item>
+  <item code="raven_bow" name="레이븐 보우" icon="raven_bow.png" type="bow" rare="3" atk_rate="40~???">
+    <option name="엘리멘탈 마스터리" rate="20~??"/>
+    <passive name="화염과 물의 파멸" info="Hydro 또는 Pyro의 영향을받는 적에 대한 DMG를 ?% 증가시킵니다." rate="12,15,18,21,24" />
+    <level level="20/40/50/60/70/80/90" damage="40~102\121~187\207~239\259~292\311~344\363~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 까마귀는 죽은 자의 페리맨으로 알려져 있습니다. 이 활의 팔다리는 까마귀 깃털로 장식되어있어 표적의 임박한 죽음을 예고합니다." />
+  </item>
+  <item code="recurve_bow" name="곡궁" icon="recurve_bow.png" type="bow" rare="3" atk_rate="38~???">
+    <option name="기본 HP" rate="10.2%~??"/>
+    <passive name="약자를 컬" info="상대를 쓰러 뜨리면 HP가 ?% 회복됩니다." rate="8,10,12,14,16" />
+    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 이 활은 날아 다니는 독수리를 격추 할 수 있다고하지만 궁극적으로 그것이 얼마나 사실인지는 궁수의 기술에 달려 있습니다." />
+  </item>
+  <item code="sharpshooters_oath" name="명사수의 맹세" icon="sharpshooters_oath.png" type="bow" rare="3" atk_rate="39~???">
+    <option name="CRIT DMG" rate="10.2%~??"/>
+    <passive name="정확한" info="약점에 대한 DMG를 ?% 증가시킵니다." rate="24,30,36,42,48" />
+    <level level="20/40/50/60/70/80/90" damage="39~94\113~169\189~216\236~263\282~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 이 우월한 활은 한때 궁수 마스터의 것이 었습니다. 그러나 강한 향이 나기 때문에 사냥에는 부적합하다." />
+  </item>
+  <item code="slingshot" name="고무총" icon="slingshot.png" type="bow" rare="3" atk_rate="38~???">
+    <option name="CRIT 비율" rate="6.8%~??"/>
+    <passive name="고무총" info="일반 공격 또는 조준 사격이 발사 후 0.3초 ​​이내에 대상을 명중하면 데미지가 ?% 증가합니다. 그렇지 않으면 DMG가 10% 감소합니다." rate="36,42,48,54,60" />
+    <level level="20/40/50/60/70/80/90" damage="38~86\105~151\171~193\212~234\253~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 이름에도 불구하고 활. 수많은 실험과 디자인 개선 끝에 궁극의 새총을 만든 사람은 실제로 활을 만들었습니다." />
+  </item>
+
+  <item code="seasoned_hunters_bow" name="노련한 사냥꾼의 활" icon="seasoned_hunters_bow.png" type="bow" rare="2" atk_rate="33~???">
+    <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 시간이 지날수록 잘 연마되고 주인이 세 심하게 관리 한 활. 궁수의 팔이 연장 된 것 같습니다." />
+  </item>
+  <item code="hunters_bow" name="사냥꾼의 활" icon="hunters_bow.png" type="bow" rare="1" atk_rate="23~???">
+    <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
+    <info desc="[Google T] 사냥꾼의 음악은 두 가지 소리로 구성되어 있습니다 : 활의 쫄깃 쫄깃한 소리와 솟아 오르는 화살의 쉿 소리." />
+  </item>
+
   <item code="skyward_blade" name="천공의 검" icon="skyward_blade.png" type="sword" rare="5" atk_rate="46~563">
     <option name="원소 충전 효율" rate="12%~50.3%"/>
     <passive name="Sky-Piercing Fang" info="- 받는 치유량 증가 +?%&#xA;- 치명타 확률 +?%&#xA;- 치명타 시 ?% 확률로 원소 입자가 1개 드롭된다 [?초에 한번 씩 발동]" rate="20,24,28,32,36\4,5,6,7,8\80,85,90,95,100\9,8,7,6,5"/>
@@ -128,7 +264,7 @@
     <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver." />
   </item>
-  <item code="dull_blade" name="Dull Blade" icon="dull_blade.png" type="sword" rare="2" atk_rate="23~185+" >
+  <item code="dull_blade" name="Dull Blade" icon="dull_blade.png" type="sword" rare="1" atk_rate="23~185+" >
     <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance." />
   </item>
