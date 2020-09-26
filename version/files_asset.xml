@@ -72,7 +72,24 @@
   <asset url="asset/img.icon/weapon/bow/skyward_harp.png" file="skyward_harp.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/bow/slingshot.png" file="slingshot.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/bow/the_stringless.png" file="the_stringless.png" directory="/asset/img/weapon" compulsion="0"/>
-  
+
+  <asset url="asset/img.icon/weapon/catalyst/amber_catalyst.png" file="amber_catalyst.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/apprentices_notes.png" file="apprentices_notes.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/blackcliff_amulet.png" file="blackcliff_amulet.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/favonius_codex.png" file="favonius_codex.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/jade_orb.png" file="jade_orb.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/lost_prayer_to_the_sacred_winds.png" file="lost_prayer_to_the_sacred_winds.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/magic_guide.png" file="magic_guide.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/mappa_mare.png" file="mappa_mare.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/pocket_grimoire.png" file="pocket_grimoire.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/prototype_malice.png" file="prototype_malice.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/royal_grimoire.png" file="royal_grimoire.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/sacrificial_fragments.png" file="sacrificial_fragments.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/skyward_atlas.png" file="skyward_atlas.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/solar_pearl.png" file="solar_pearl.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/the_widsith.png" file="the_widsith.png" directory="/asset/img/weapon" compulsion="0"/>
+  <asset url="asset/img.icon/weapon/catalyst/thrilling_tales_of_dragon_slayers.png" file="thrilling_tales_of_dragon_slayers.png" directory="/asset/img/weapon" compulsion="0"/>
+
   <asset url="asset/img.icon/weapon/sword/blackcliff_longsword.png" file="blackcliff_longsword.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/cool_steel.png" file="cool_steel.png" directory="/asset/img/weapon" compulsion="0"/>
   <asset url="asset/img.icon/weapon/sword/dark_iron_sword.png" file="dark_iron_sword.png" directory="/asset/img/weapon" compulsion="0"/>
