@@ -432,11 +432,11 @@
     <info desc="[Google T] 백철로 만든 클레이 모어. 전력 저하없이 가볍습니다. 평균적인 힘으로 휘 두르더라도 효과가 있으며, 육체적으로 더 강한 사람의 손에 매우 치명적입니다." />
   </item>
   
-  <item code="old_mercs_pal" name="올드 머의 친구" icon="old_mercs_pal.png" type="claymore" rare="3" atk_rate="33~?">
+  <item code="old_mercs_pal" name="올드 머의 친구" icon="old_mercs_pal.png" type="claymore" rare="2" atk_rate="33~?">
     <level level="20/40/50/60/70/80/90" damage="33~80\?~?\?~?\?~?\?~?\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="[Google T] 전투에서 검증 된 대검." />
   </item>
-  <item code="waster_greatsword" name="낭비 자 대검" icon="waster_greatsword.png" type="claymore" rare="3" atk_rate="23~?">
+  <item code="waster_greatsword" name="낭비 자 대검" icon="waster_greatsword.png" type="claymore" rare="1" atk_rate="23~?">
     <level level="20/40/50/60/70/80/90" damage="23~56\68~102\113~130\141~158\169~185\?~?\?~?" option="12%\??%\??%\??%\??%\??%\50.3%"/>
     <info desc="[Google T] 충분한 의지력으로 휘두르면 산을 깨뜨릴 수있을만큼 강력한 철판." />
   </item>
