@@ -1,0 +1,9 @@
+<data>
+  <version ver="0.0.1" state="0"
+           info="음식 도감 추가"
+           date="2020.10.04" />
+  <version ver="0.0.0" state="1"
+           info="1. 무기 도감 추가
+           &#xA;2. 캐릭터 도감 추가"
+           date="2020.09.28" />
+</data>
