@@ -1,0 +1,132 @@
+<data>
+  <name name="바바라" assistant="빛나는 아이돌"/>
+  <detail rareicon="/asset/img/static/star_1_4.png" rare="4"
+          group="페보니우스 교회"
+          birth="7월 5일" type="Hydro" destiny="황금잔자리" />
+  <destiny>
+    <info-ds icon="klee_1.png" name="연쇄 폭발" 
+             info ="공격과 스킬 발동 시 일정 확률로 불꽃을 소환해 적을 폭격하여 쾅쾅불꽃으로 가하는 피해의 120%만큼 피해를 준다."/>
+    <info-ds icon="klee_2.png" name="퍄퍄 포탄 파편" 
+             info ="적이 부비트랩을 밟은 후 10초 동안 방어력이 15% 감소한다."/>
+    <info-ds icon="klee_3.png" name="클레 특제"
+             info ="통통 폭탄의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="klee_4.png" name="일촉즉발"
+             info ="쾅쾅 불꽃이 지속하는 동안 캐릭터를 교체하면 폭발을 일으켜 공격력 233%의 화염 원소 범위 피해를 준다."/>
+    <info-ds icon="klee_5.png" name="포격 천재" 
+             info ="펑펑 불꽃의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="klee_6.png" name="풀파워" 
+             info ="쾅쾅 불꽃이 지속하는 동안 파티 내 기타 캐릭터의 원소 에너지가 회복한다.
+&#xA;쾅쾅 불꽃 발동 후 25초 동안 파티 내 모든 캐릭터의 화염 원소 피해 보너스를 10% 획득한다."/>
+  </destiny>
+  <passive>
+    <info-ps icon="/asset/img/passive/klee_1.png" 
+             name="펑펑 선물" unlock="1" 
+             info="통통 폭탄과 일반 공격으로 피해를 줄 때 50%의 확률로 클레에게 폭열 불꽃을 1송이 부여한다. 강공격 시 소모되는 스태미나를 대신해 폭열 불꽃을 소모하며 가하는 피해가 50% 증가한다."/>
+    <info-ps icon="/asset/img/passive/klee_2.png"
+             name="무한 스파크" unlock="4"
+             info="강공격 시 치명타가 발생하면 파티 내 모든 캐릭터의 원소 에너지를 2pt 회복한다."/>
+    <info-ps icon="/asset/img/passive/klee_3.png"
+             name="All Of My Treasures!" unlock="0" 
+             info="Displays the location of nearby resources unique to Mondstadt on the mini-map."/>
+  </passive>
+  <skill icon="/asset/img/skill/klee_1.png" max="15" 
+         name="일반 공격·Kaboom!" 
+         info="기본공격
+&#xA;폭발 공격을 최대 3회까지 발동해 불 원소 범위 피해를 입힌다.
+&#xA;
+&#xA;강공격
+&#xA;일정 스태미나를 소모해, 짧은 영창 후 전방의 모든 적에게 불 원소 피해를 준다.
+&#xA;
+&#xA;1-Hit DMG ?
+&#xA;2-Hit DMG ?
+&#xA;3-Hit DMG ?
+&#xA;Charged Attack DMG ?
+&#xA;Charged Attack Stamina Cost ?
+&#xA;Plunge DMG ?
+&#xA;Low / High Plunge DMG ? / ?">
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="72.2%,62.4%,89.9%,157%,50,56.8%,114%,142%"/>
+  </skill>
+  <skill icon="/asset/img/skill/klee_2.png" max="15" 
+         name="통통 폭탄"  
+         info="통통 폭탄은 연속으로 3회 튀기며 튕길 때마다 폭발을 일으켜 불 원소 범위 피해를 준다. 3번 튕긴 후 폭탄은 폭발하며 수많은 부비트랩으로 분열된다, 적이 밟거나 일정 시간이 지나면 부비트랩은 폭발하여 불 원소 범위 피해를 준다. 
+&#xA;사용 횟수: 2회
+&#xA;
+&#xA;Jumpy Dumpty DMG ?
+&#xA;Mine DMG ?
+&#xA;Mine Duration ?
+&#xA;Cooltime ? ">
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+    <skillLevel rdata="95%,33%,15s,20s" />
+  </skill>
+  <skill icon="/asset/img/skill/klee_3.png" max="15" 
+         name="쾅쾅 불꽃"
+         info="스킬을 발동하는 동안 쾅쾅 불꽃을 소환해 주변의 적에게 불 원소 범위 피해를 준다.
+&#xA;쾅쾅 불꽃은 주변의 적을 자동으로 공격한다.
+&#xA;
+&#xA;Sparks 'n' Splash DMG ?
+&#xA;Duration ?
+&#xA;CD ?
+&#xA;Energy Cost ?">
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+    <skillLevel rdata="42.6%,10s,15s,60"/>
+  </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+   
+    <asset url="asset/img.icon/constellations/klee_1.png" file="klee_1.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/klee_2.png" file="klee_2.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/klee_3.png" file="klee_3.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/klee_4.png" file="klee_4.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/klee_5.png" file="klee_5.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/klee_6.png" file="klee_6.png" directory="/asset/img/constellation"/>
+
+    <asset url="asset/img.icon/skill/klee_1.png" file="klee_1.png" directory="/asset/img/skill"/>
+    <asset url="asset/img.icon/skill/klee_2.png" file="klee_2.png" directory="/asset/img/skill"/>
+    <asset url="asset/img.icon/skill/klee_3.png" file="klee_3.png" directory="/asset/img/skill"/>
+
+    <asset url="asset/img.icon/passive/klee_1.png" file="klee_1.png" directory="/asset/img/passive"/>
+    <asset url="asset/img.icon/passive/klee_2.png" file="klee_2.png" directory="/asset/img/passive"/>
+    <asset url="asset/img.icon/passive/klee_3.png" file="klee_3.png" directory="/asset/img/passive"/>
+  </download>
+ </data>
