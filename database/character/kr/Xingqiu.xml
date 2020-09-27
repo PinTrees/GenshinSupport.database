@@ -1,0 +1,134 @@
+<data>
+  <name name="행추" assistant="의기충전"/>
+  <detail rareicon="/asset/img/static/star_1_4.png" rare="4"
+          group="비운 상회"
+          birth="10월 9일" type="Hydro" destiny="금직자리" />
+  <destiny>
+    <info-ds icon="barbara_1.png" name="장막의 잔향" 
+             info ="「우령검」의 최대 수량이 1개 증가한다"/>
+    <info-ds icon="barbara_2.png" name="맑은 하늘의 무지개" 
+             info ="고화검·재우유홍의 지속시간이 3초 증가한다. 검의 비의 공격을 받은 적은 물 원소 내성이 15% 감소한다."/>
+    <info-ds icon="barbara_3.png" name="시로 짠 비단"
+             info ="고화검·재우유홍의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="barbara_4.png" name="교룡 베기"
+             info ="「우령검」이 1개 증가할 때마다 고화검·화우농산으로 주는 피해가 10% 증가한다."/>
+    <info-ds icon="barbara_5.png" name="우심 폐문" 
+             info ="고화검·화우농산의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="barbara_6.png" name="만문 집결" 
+             info ="검우 공격을 2회 발동할 때마다 다음 검우 공격을 대폭 강화하고 적을 명중 시 행추의 원소 에너지를 3pt 회복한다."/>
+  </destiny>
+  <passive>
+    <info-ps icon="/asset/img/passive/barbara_1.png" 
+             name="광휘의 계절" unlock="1" 
+             info="노래의 고리가 존재할 때 스태미나 소모량이 12% 감소한다."/>
+    <info-ps icon="/asset/img/passive/barbara_2.png"
+             name="앵콜" unlock="4"
+             info="원소 구슬 혹은 원소 입자를 획득 시 공연, 시작♪의 지속시간이 1초 증가한다. 최대 5초까지 증가."/>
+    <info-ps icon="/asset/img/passive/tmp.png"
+             name="열정 주입♪" unlock="0" 
+             info="바바라가 삶은 요리 시 완벽 판정 범위가 100% 증가한다."/>
+  </passive>
+  <skill icon="/asset/img/skill/barbara_1.png" max="15" 
+         name="일반 공격·Whisper of Water" 
+         info="기본공격
+&#xA;최대 4번 공격해 물원소 피해를 준다.
+&#xA;
+&#xA;강공격
+&#xA;일정 스태미나를 소모해, 짧은 영창 후 전방의 모든 적에게 물 원소 피해를 준다.
+&#xA;
+&#xA;1-Hit DMG ?
+&#xA;2-Hit DMG ?
+&#xA;3-Hit DMG ?
+&#xA;4-Hit DMG ?
+&#xA;Charged Attack DMG ?
+&#xA;Charged Attack Stamina Cost ?
+&#xA;Plunge DMG ?
+&#xA;Low / High Plunge DMG ? / ?">
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+    <skillLevel rdata="37.8%,35.5%,41%,55.2%,166%,50,56.8%,114%,142%"/>
+  </skill>
+  <skill icon="/asset/img/skill/barbara_2.png" max="15" 
+         name="공연, 시작♪"  
+         info="자신을 중심으로 노래의 고리를 소환해 주변의 적에게 물 원소 피해를 가하고 습기 효과를 부여한다.
+&#xA; 노래의 고리
+&#xA;♪ 바바라의 일반 공격이 명중 시 파티 내 모든 캐릭터 및 근처의 아군 캐릭터의 HP를 회복한다. 회복량은 바바라 HP 최대치의 영향을 받는다.
+&#xA;♪ 강공격 명중 시 회복량이 4배가 된다.
+&#xA;♪ 일정 시간이 지날 때마다 현재 캐릭터의 HP를 회복한다.
+&#xA;♪ 캐릭터 및 닿은 적에게 습기 효과를 부여한다.
+&#xA;
+&#xA;HP Regeneration Per Hit  ? Max HP + ?
+&#xA;Continuous Regeneration  ? Max HP + ?
+&#xA;Droplet DMG  ?
+&#xA;Duration  ?
+&#xA;Cooltime ? ">
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+    <skillLevel rdata="0.75%,72,4%,385,58.4%,15s,32s" />
+  </skill>
+  <skill icon="/asset/img/skill/barbara_3.png" max="15" 
+         name="빛나는 기적♪"
+         info="바바라의 HP 최대치에 따라 파티 내 모든 캐릭터의 HP를 대량 회복한다.
+&#xA;
+&#xA;Healing Amount  ? Max HP + ?
+&#xA;CD  ?
+&#xA;Energy Cost  ?">
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+    <skillLevel rdata="17.6%,1694,20s,80"/>
+  </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+   
+    <asset url="asset/img.icon/constellations/barbara_1.png" file="barbara_1.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/barbara_2.png" file="barbara_2.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/barbara_3.png" file="barbara_3.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/barbara_4.png" file="barbara_4.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/barbara_5.png" file="barbara_5.png" directory="/asset/img/constellation"/>
+    <asset url="asset/img.icon/constellations/barbara_6.png" file="barbara_6.png" directory="/asset/img/constellation"/>
+
+    <asset url="asset/img.icon/skill/barbara_1.png" file="barbara_1.png" directory="/asset/img/skill"/>
+    <asset url="asset/img.icon/skill/barbara_2.png" file="barbara_2.png" directory="/asset/img/skill"/>
+    <asset url="asset/img.icon/skill/barbara_3.png" file="barbara_3.png" directory="/asset/img/skill"/>
+
+    <asset url="asset/img.icon/passive/barbara_1.png" file="barbara_1.png" directory="/asset/img/passive"/>
+    <asset url="asset/img.icon/passive/barbara_2.png" file="barbara_2.png" directory="/asset/img/passive"/>
+  </download>
+ </data>

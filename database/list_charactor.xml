@@ -1,24 +1,24 @@
 <data>
   <info en_name="Amber"     file="amber.png" kr_name="엠버" type="Pyro"      type_icon="pyro.png" />
   <info en_name="Barbara"   file="barbara.png" kr_name="바바라" type="Hydro" type_icon="hydro.png" />
-  <info en_name="Beidou"    file="beidou.png" kr_name="비도" type="Electro"  type_icon="electro.png" />
+  <info en_name="Beidou"    file="beidou.png" kr_name="북두" type="Electro"  type_icon="electro.png" />
   <info en_name="Bennett"   file="bennett.png" kr_name="베넷" type="Pyro"    type_icon="pyro.png" />
   <info en_name="Chongyun"  file="chongyun.png" kr_name="청윤" type="Cryo"   type_icon="cryo.png" />
-  <info en_name="Diluc"     file="diluc.png" kr_name="디럭" type="Pyro"      type_icon="pyro.png" />
-  <info en_name="Fischl"    file="fischl.png" kr_name="피스" type="Electro"  type_icon="electro.png" />
+  <info en_name="Diluc"     file="diluc.png" kr_name="다이루크" type="Pyro"      type_icon="pyro.png" />
+  <info en_name="Fischl"    file="fischl.png" kr_name="피슬" type="Electro"  type_icon="electro.png" />
   <info en_name="Jean"      file="jean.png" kr_name="진" type="Anemo"        type_icon="anemo.png" />
-  <info en_name="Kaeya"     file="kaeya.png" kr_name="카야" type="Cryo"      type_icon="cryo.png" />
-  <info en_name="Klee"      file="klee.png" kr_name="클리" type="Pyro"       type_icon="pyro.png" />
+  <info en_name="Kaeya"     file="kaeya.png" kr_name="케이아" type="Cryo"      type_icon="cryo.png" />
+  <info en_name="Klee"      file="klee.png" kr_name="클레" type="Pyro"       type_icon="pyro.png" />
   <info en_name="Lisa"      file="lisa.png" kr_name="리사" type="Electro"    type_icon="electro.png" />
-  <info en_name="Ningguang" file="ningguang.png" kr_name="니구라" type="Geo" type_icon="geo.png" />
+  <info en_name="Ningguang" file="ningguang.png" kr_name="응광" type="Geo" type_icon="geo.png" />
   <info en_name="Noelle"    file="noelle.png" kr_name="노엘" type="Geo"      type_icon="geo.png" />
-  <info en_name="Razor"     file="razor.png" kr_name="래저" type="Electro"   type_icon="electro.png" />
+  <info en_name="Razor"     file="razor.png" kr_name="레이저" type="Electro"   type_icon="electro.png" />
   <info en_name="Traveler (Anemo)" file="traveler_anemo.png" kr_name="여행자" type="Anemo" type_icon="anemo.png" />
   <info en_name="Traveler (Geo)" file="traveler_geo.png" kr_name="여행자"    type="Geo" type_icon="geo.png" />
   <info en_name="Venti"     file="venti.png" kr_name="벤티" type="Anemo"     type_icon="anemo.png" />
-  <info en_name="Xiangling" file="xiangling.png" kr_name="샹링" type="Pyro"  type_icon="pyro.png" />
-  <info en_name="Xiao"      file="xiao.png" kr_name="샤오" type="Anemo"      type_icon="anemo.png" />
-  <info en_name="Xingqiu"   file="xingqiu.png" kr_name="싱커" type="Hydro"   type_icon="hydro.png" />
+  <info en_name="Xiangling" file="xiangling.png" kr_name="향릉" type="Pyro"  type_icon="pyro.png" />
+  <info en_name="Xiao"      file="xiao.png" kr_name="소" type="Anemo"      type_icon="anemo.png" />
+  <info en_name="Xingqiu"   file="xingqiu.png" kr_name="행추" type="Hydro"   type_icon="hydro.png" />
 
   <download>
     <asset url="database/character/kr/Beidou.xml" file="Beidou.xml" directory="/database/character" compulsion="0"/>
