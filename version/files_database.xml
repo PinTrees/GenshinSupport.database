@@ -6,4 +6,5 @@
   <asset url="database/character/kr/Jean.xml" file="Jean.xml" directory="/database/character" compulsion="1"/>
   <asset url="database/character/kr/Amber.xml" file="Amber.xml" directory="/database/character" compulsion="1"/>
   <asset url="database/character/kr/Klee.xml" file="Amber.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Barbara.xml" file="Barbara.xml" directory="/database/character" compulsion="1"/>
 </data>

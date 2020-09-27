@@ -35,7 +35,13 @@
   <asset url="asset/img.icon/constellations/klee_4.png" file="klee_4.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/klee_5.png" file="klee_5.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/klee_6.png" file="klee_6.png" directory="/asset/img/constellation" compulsion="0"/>
-    
+  <asset url="asset/img.icon/constellations/barbara_1.png" file="barbara_1.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/barbara_2.png" file="barbara_2.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/barbara_3.png" file="barbara_3.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/barbara_4.png" file="barbara_4.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/barbara_5.png" file="barbara_5.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/barbara_6.png" file="barbara_6.png" directory="/asset/img/constellation" compulsion="0"/>
+
   <asset url="asset/img.icon/passive/amber_1.png" file="amber_1.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/amber_2.png" file="amber_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/amber_3.png" file="amber_3.png" directory="/asset/img/passive" compulsion="0"/>
@@ -48,6 +54,8 @@
   <asset url="asset/img.icon/passive/klee_1.png" file="klee_1.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/klee_2.png" file="klee_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/klee_3.png" file="klee_3.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/barbara_1.png" file="barbara_1.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/barbara_2.png" file="barbara_2.png" directory="/asset/img/passive" compulsion="0"/>
 
   <asset url="asset/img.icon/skill/amber_1.png" file="amber_1.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/amber_2.png" file="amber_2.png" directory="/asset/img/skill" compulsion="0"/>
@@ -58,6 +66,9 @@
   <asset url="asset/img.icon/skill/klee_1.png" file="klee_1.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/klee_2.png" file="klee_2.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/klee_3.png" file="klee_3.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/barbara_1.png" file="barbara_1.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/barbara_2.png" file="barbara_2.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/barbara_3.png" file="barbara_3.png" directory="/asset/img/skill" compulsion="0"/>
 
   <asset url="asset/img.icon/static/star_1_4.png" file="star_1_4.png" directory="/asset/img/static" compulsion="0"/>
   <asset url="asset/img.icon/static/star_1_5.png" file="star_1_5.png" directory="/asset/img/static" compulsion="0"/>
