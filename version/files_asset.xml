@@ -29,7 +29,13 @@
   <asset url="asset/img.icon/constellations/jean_4.png" file="jean_4.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/amber_3.png" file="amber_3.png" directory="/asset/img/constellation" compulsion="0"/>
   <asset url="asset/img.icon/constellations/amber_5.png" file="amber_5.png" directory="/asset/img/constellation" compulsion="0"/>
-
+  <asset url="asset/img.icon/constellations/klee_1.png" file="klee_1.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/klee_2.png" file="klee_2.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/klee_3.png" file="klee_3.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/klee_4.png" file="klee_4.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/klee_5.png" file="klee_5.png" directory="/asset/img/constellation" compulsion="0"/>
+  <asset url="asset/img.icon/constellations/klee_6.png" file="klee_6.png" directory="/asset/img/constellation" compulsion="0"/>
+    
   <asset url="asset/img.icon/passive/amber_1.png" file="amber_1.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/amber_2.png" file="amber_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/amber_3.png" file="amber_3.png" directory="/asset/img/passive" compulsion="0"/>
@@ -39,6 +45,9 @@
   <asset url="asset/img.icon/passive/jean_1.png" file="jean_1.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/jean_2.png" file="jean_2.png" directory="/asset/img/passive" compulsion="0"/>
   <asset url="asset/img.icon/passive/jean_3.png" file="jean_3.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/klee_1.png" file="klee_1.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/klee_2.png" file="klee_2.png" directory="/asset/img/passive" compulsion="0"/>
+  <asset url="asset/img.icon/passive/klee_3.png" file="klee_3.png" directory="/asset/img/passive" compulsion="0"/>
 
   <asset url="asset/img.icon/skill/amber_1.png" file="amber_1.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/amber_2.png" file="amber_2.png" directory="/asset/img/skill" compulsion="0"/>
@@ -46,6 +55,9 @@
   <asset url="asset/img.icon/skill/jean_1.png" file="jean_1.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/jean_2.png" file="jean_2.png" directory="/asset/img/skill" compulsion="0"/>
   <asset url="asset/img.icon/skill/jean_3.png" file="jean_3.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/klee_1.png" file="klee_1.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/klee_2.png" file="klee_2.png" directory="/asset/img/skill" compulsion="0"/>
+  <asset url="asset/img.icon/skill/klee_3.png" file="klee_3.png" directory="/asset/img/skill" compulsion="0"/>
 
   <asset url="asset/img.icon/static/star_1_4.png" file="star_1_4.png" directory="/asset/img/static" compulsion="0"/>
   <asset url="asset/img.icon/static/star_1_5.png" file="star_1_5.png" directory="/asset/img/static" compulsion="0"/>

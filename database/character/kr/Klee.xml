@@ -113,6 +113,7 @@
 
   <download>
     <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+   
     <asset url="asset/img.icon/constellations/klee_1.png" file="klee_1.png" directory="/asset/img/constellation"/>
     <asset url="asset/img.icon/constellations/klee_2.png" file="klee_2.png" directory="/asset/img/constellation"/>
     <asset url="asset/img.icon/constellations/klee_3.png" file="klee_3.png" directory="/asset/img/constellation"/>
