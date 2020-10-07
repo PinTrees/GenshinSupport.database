@@ -1,6 +1,11 @@
 <data>
   <name name="피슬" assistant="단죄의 황녀"/>
-  <detail group="모험가 길드" birth="5월 27일" type="Electro" destiny="환상 까마귀자리" />
+  <detail rareicon="/asset/img/static/star_1_4.png" 
+          rare="4" 
+          group="모험가 길드" 
+          birth="5월 27일"
+          type="Electro" 
+          destiny="환상 까마귀자리" />
 
   <destiny>
     <info-ds icon="tmp.png"
