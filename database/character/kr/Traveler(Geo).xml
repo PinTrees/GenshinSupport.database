@@ -1,0 +1,154 @@
+<data>
+  <name name="여행자" assistant=""/>
+  <detail  rareicon="/asset/img/static/star_1_5.png" 
+           rare="5" 
+           group="페보니우스 기사단"
+           birth="ㅡㅡㅡ"
+           type="Geo" 
+           destiny="ㅡㅡㅡ" />
+
+  <destiny>
+    <info-ds icon="tmp.png"
+             name="웅대한 청암" 
+             info ="아군 유닛이 첩첩산중의 돌벽에 포위되면 치명타 확률이 10% 증가하고 경직 저항력이 상승한다."/>
+    <info-ds icon="tmp.png"
+             name="불안정한 용암"
+             info ="성운검의 황성이 파괴될 때 다시 폭발을 일으켜
+주변의 적에게 성운검의 피해와 동일한 바위 원소 범위 피해를 준다."/>
+    <info-ds icon="tmp.png"
+             name="팔방의 바위"
+             info ="첩첩산중의 스킬 레벨+3
+&#xA;최대 Lv.15까지 상승"/>
+    <info-ds icon="tmp.png"
+             name="험준한 바위"
+             info ="첩첩산중이 유발하는 진동파가 1명의 적에게 명중할 때마다 원소 에너지가 5pt 회복한다.
+이러한 방식을 통해 한번에 원소 에너지를 최대 25pt까지 회복할 수 있다."/>
+    <info-ds icon="tmp.png" 
+             name="하늘에서 떨어지는 바위"
+             info ="성운검의 스킬 레벨 +3
+&#xA;최대 Lv.15까지 상승"/>
+    <info-ds icon="tmp.png" 
+             name="영세의 반석"
+             info ="첩첩산중의 돌벽 지속시간이 5초 연장된다.
+성운검의 황성 지속시간이 10초 연장된다."/>
+  </destiny>
+  <passive>
+    <info-ps icon="-1" 
+             name="열공의 바람" unlock="1" 
+             info="일반 공격의 마지막 일격은 바람의 칼날을 발동해 경로상의 적에게 공격력 60%의 바람 원소 피해를 준다."/>
+    <info-ps icon="-1"
+             name="재생의 바람" unlock="4"
+             info="회오리 검을 사용해 적을 처치한 후 초당 HP를 2%씩 회복한다. 지속 시간: 5초.
+해당 효과는 5초마다 1번 발동한다."/>
+    <info-ps icon="-1" 
+             name="ㅡㅡㅡ" unlock="0" 
+             info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+  </passive>
+  <skill icon="-1" max="15"
+         name="이국의 강철바람"
+         info="일반 공격
+&#xA;검으로 최대 5번 공격한다.
+&#xA;
+&#xA;강공격
+&#xA;일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.
+&#xA;
+&#xA;낙하 공격
+&#xA;공중에서 땅을 내려찍어 경로상의 적을 공격하고 땅에 닿으면 범위 피해를 준다.
+&#xA;
+&#xA;1-Hit DMG  ?
+&#xA;2-Hit DMG  ?
+&#xA;3-Hit DMG  ?
+&#xA;4-Hit DMG  ?
+&#xA;5-Hit DMG  ?
+&#xA;Charged Attack DMG  ?
+&#xA;Charged Attack Stamina Cost  ?
+&#xA;Plunge DMG  ?
+&#xA;Low / High Plunge DMG  ?">
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+    <skillLevel rdata="44.5%,43.4%,53%,58.3%,70.8%,55.9% + 72.2%,20,63.9%,128% / 160%"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="회오리 검"
+         info="바람의 힘을 꽉 쥐고 손바닥에서 진공 소용돌이를 만들어내 적에게 바람 원소 피해를 계속 준다.
+&#xA;스킬 종료 후 진공 소용돌이는 폭발하여 범위가 더 크고 강력한 바람 원소 피해를 준다.
+&#xA;
+&#xA;홀드
+&#xA;피해와 영향 범위가 점점 커진다.
+&#xA;
+&#xA;원소 전환
+&#xA;진공 소용돌이는 스킬을 시전하는 동안 물 원소/불 원소/얼음 원소/번개 원소에 닿으면 상응하는 원소 속성을 획득하고 추가로 해당 속성 피해를 준다.
+&#xA;원소 전환은 스킬을 시전하는 동안 1회만 발생한다.
+&#xA;
+&#xA;페이몬과 형태가 없는 바람을 어떻게 쥘 것인가를 주제로 토론한 적 있다.
+&#xA;  
+&#xA;Initial Cutting DMG  ?
+&#xA;Max Cutting DMG  ?
+&#xA;Initial Storm DMG  ?
+&#xA;Max Storm DMG  ?
+&#xA;Base CD  ?
+&#xA;Max Charging CD  ?">
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+    <skillLevel rdata="12%,16.8%,176%,192%,5s,8s"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="격동의 바람"
+         info="바람이 전진하는 방향을 인도하며 앞으로 나아가는 토네이도를 소환해 경로상의 물체와 적을 감아올려 바람 원소 피해를 계속 준다.
+&#xA;
+&#xA;원소 전환
+&#xA;토네이도는 스킬을 시전하는 동안 물 원소/불 원소/얼음 원소/번개 원소에 닿으면 상응하는 원소 속성을 획득하고 추가로 해당 속성 피해를 준다.
+&#xA;원소 전환은 스킬을 시전하는 동안 1회만 발생한다.
+&#xA;
+&#xA;페이몬과 함께 나비의 날갯짓에 대해 연구한 적 있다.
+&#xA;
+&#xA;Tornado DMG  ?
+&#xA;Additional Elemental DMG  ?
+&#xA;Duration  ?
+&#xA;CD  ?
+&#xA;Energy Cost  ?">
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+    <skillLevel rdata="80.8%,24.8%,6s,15s,60"/>
+  </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+  </download>
+ </data>
