@@ -1,6 +1,11 @@
 <data>
   <name name="북두" assistant="무관의 용왕"/>
-  <detail group="남십자함대" birth="2월 14일" type="Electro" destiny="남십자해산자리" />
+  <detail rareicon="/asset/img/static/star_1_4.png" 
+          rare="4"
+          group="남십자함대" 
+          birth="2월 14일"
+          type="Electro"
+          destiny="남십자해산자리" />
 
   <destiny>
     <info-ds icon="beidou_1.png" name="공전의 법칙" info ="파도잡이를 길게 터치할 때 피해 흡수량이 35% 증가한다"/>
