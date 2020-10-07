@@ -1,0 +1,125 @@
+<data>
+  <name name="소" assistant="나자의 춤"/>
+  <detail  rareicon="/asset/img/static/star_1_5.png" 
+           rare="5" 
+           group="리월 선인"
+           birth="4월 17일"
+           type="Anemo" 
+           destiny="황금날개천붕왕자리" />
+
+  <destiny>
+    <info-ds icon="tmp.png"
+             name="괴겁 – 삼계 파멸" 
+             info ="풍륜양립 사용 횟수 1회 증가"/>
+    <info-ds icon="tmp.png"
+             name="공겁 – 피어나는 허공의 꽃"
+             info ="대기 상태일 때 소(魈)의 원소 충전 효율이 25% 증가한다."/>
+    <info-ds icon="tmp.png"
+             name="항마 – 분노의 형상"
+             info ="풍륜양립의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png"
+             name="신통 – 사라진 고통"
+             info ="소의 HP가 50% 미만일 때, 방어력 보너스를 100% 획득한다."/>
+    <info-ds icon="tmp.png" 
+             name="성겁 – 늘어나는 번뇌"
+             info ="나자의 춤의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png" 
+             name="항마 - 호법야차"
+             info ="나자의 춤 상태에서 강공격으로 최소 2명의 적을 명중 시 즉시 풍륜양립 사용 횟수를 1회 획득하고 1초안에 재사용 대기시간을 무시하고 풍륜양립을 발동할 수 있다."/>
+  </destiny>
+  <passive>
+    <info-ps icon="-1" 
+             name="항마 – 떠돌이 아귀 보시법" unlock="1" 
+             info="파티 내 모든 캐릭터가 바람 원소 피해 보너스를 획득하고 강공격 피해가 상승한다."/>
+    <info-ps icon="-1"
+             name="항마 - 평요대성" unlock="4"
+             info="나자의 춤 상태에서 소(魈)가 가하는 모든 피해가 5% 증가하고 이후 스킬 지속 시간 동안 3초가 지날 때마다 가하는 피해가 추가로 5% 증가한다. 피해 보너스는 최대 25%까지 상승한다."/>
+    <info-ps icon="-1" 
+             name="괴겁 – 국토연진" unlock="0" 
+             info="풍륜양립 사용 후 6초 동안 사용하는 풍륜양립으로 가하는 피해가 15% 증가한다. 지속 시간: 6초 최대 중첩수: 3회. 중첩 시 지속 시간이 갱신된다."/>
+  </passive>
+  <skill icon="-1" max="15"
+         name="ㅡㅡㅡ"
+         info="기본공격
+&#xA;창으로 최대 6번 공격할 수 있다.
+&#xA;
+&#xA;강공격
+&#xA;급속 강하하여 땅을 내려찍는다. 낙하한 높이에 따라 가하는 피해가 달라진다. 공중에서만 발동할 수 있다.
+&#xA;
+&#xA;1-Hit DMG  ?
+&#xA;2-Hit DMG  ?
+&#xA;3-Hit DMG  ?
+&#xA;4-Hit DMG  ?
+&#xA;5-Hit DMG  ?
+&#xA;6-Hit DMG  ?
+&#xA;Charged Attack DMG  ?
+&#xA;Height DMG  ?">
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+    <skillLevel rdata="24% + 24%,50%,60%,33% + 33%,63%,84%,65%,130% / 195%"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="풍륜양립"
+         info="아주 빠르게 돌진하여 경로상의 적에게 바람 원소 피해를 준다.
+&#xA;공중에서 발동 가능. 초기 사용 횟수: 2회
+&#xA;
+&#xA;Skill DMG  ?
+&#xA;CD  ?">
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+    <skillLevel rdata="229%,10s"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="나자의 춤"
+         info="야차의 가면을 착용해 공격 범위와 가하는 피해를 증가시킨다. 모든 공격은 가하는 피해를 증가시킨다. 모든 공격은 바람 원소 피해로 바뀌며, 점프력이 대폭 상승한다. 해당 상태일 때 소(魈)는 HP를 지속해서 잃는다.
+&#xA;
+&#xA;Increased DMG  ?
+HP Loss  ?
+Duration  ?
+CD  ?
+Energy Cost  ?">
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+    <skillLevel rdata="68.8%,3% HP/s,15s,15s,60"/>
+  </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+  </download>
+ </data>
