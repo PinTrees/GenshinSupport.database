@@ -23,19 +23,19 @@
              info ="ㅡㅡㅡㅡㅡ오즈의 지속 시간를 2초 연장한다. 오즈가 현재 캐릭터와 함께 공격하며 공격력 30%의 번개 원소 피해를 준다.ㅡㅡㅡㅡ"/>
   </destiny>
   <passive>
-    <info-ps icon="-1" 
+    <info-ps icon="/asset/img/constellation/tmp.png" 
              name="별을 삼킨 까마귀" unlock="1" 
              info="피슬이 차지 완료된 화살로 오즈를 명중하면 오즈가 주변의 적에게 신성한 번개를 내리고
 사격 피해의 152.7%에 달하는 번개 원소 범위 피해를 준다."/>
-    <info-ps icon="-1"
+    <info-ps icon="/asset/img/constellation/tmp.png"
              name="단죄의 뇌영" unlock="4"
              info="오즈가 필드에 존재 시 캐릭터가 적을 공격하여 번개 원소 관련 반응이 발동되었다면
 적에게 신성한 번개를 내려 피슬 공격력 80%의 번개 원소 피해를 준다."/>
-    <info-ps icon="-1" 
+    <info-ps icon="/asset/img/constellation/tmp.png" 
              name="황녀의 화원" unlock="0" 
              info="몬드에서 탐색 임무 수행시 소모하는 시간이 25% 감소한다."/>
   </passive>
-  <skill icon="-1" max="15" 
+  <skill icon="/asset/img/constellation/tmp.png" max="15" 
          name="죄멸의 화살" 
          info="일반 공격
 &#xA;활로 최대 5번 공격한다.
@@ -73,7 +73,8 @@
     <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
     <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
   </skill>
-  <skill icon="-1" max="15"
+  <skill icon="/asset/img/constellation/tmp.png" 
+         max="15"
          name="밤을 순찰하는 그림자 날개"  
          info="오즈를 소환한다. 암영과 뇌전으로 구성된 레이븐이 속세에 강림할 때
 &#xA;작은 범위 내의 적에게 번개 원소 피해를 준다.
@@ -106,7 +107,8 @@
     <skillLevel rdata="88.8%,115%,10s,25s" />
     <skillLevel rdata="88.8%,115%,10s,25s" />
   </skill>
-  <skill icon="-1" max="15"
+  <skill icon="/asset/img/constellation/tmp.png"
+         max="15"
          name="암야의 환상" 
          info="오즈를 소환해 칠흑으로 엮은 두 날개로 피슬을 보호한다.
 &#xA;지속하는 동안 아래의 효과를 가진다.
