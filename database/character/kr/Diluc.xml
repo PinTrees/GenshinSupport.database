@@ -1,6 +1,11 @@
 <data>
   <name name="다이루크" assistant="새벽의 어둠"/>
-  <detail group="다운 와이너리" birth="4월 30일" type="Pyro" destiny="밤 올빼미자리" />
+  <detail rareicon="/asset/img/static/star_1_5.png" 
+          rare="5"
+          group="다운 와이너리" 
+          birth="4월 30일" 
+          type="Pyro" 
+          destiny="밤 올빼미자리" />
 
   <destiny>
     <info-ds icon="tmp.png"
