@@ -4,101 +4,141 @@
 
   <destiny>
     <info-ds icon="tmp.png"
-             name="ㅡㅡㅡ" 
-             info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="그윽한 까마귀 눈" 
+             info ="오즈가 필드에 존재하지 않을 때, 까마귀 눈으로 피슬을 지켜준다. 피슬이 적에게 일반 공격을 가할 시 오즈는 까마귀 눈을 통해 함께 공격해 공격력 22%의 피해를 준다."/>
     <info-ds icon="tmp.png"
-             name="ㅡㅡㅡ"
-             info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="신성한 된결의 그림자 깃털"
+             info ="밤을 순찰하는 그림자 날개 발동 시 공격력 200%의 추가피해를 주고 공격 범위가 50% 확대된다."/>
     <info-ds icon="tmp.png"
-             name="ㅡㅡㅡ"
-             info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="심연색의 검은 날개"
+             info ="레벨+3, 최대 15레벨까지 상승"/>
     <info-ds icon="tmp.png"
-             name="ㅡㅡㅡ"
-             info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="황녀의 환상 이야기"
+             info ="암야의 환상 발동 시 주변 적에게 공격력 222%의 번개 원소 피해를 준다. 스킬 효과가 사라지면 피슬의 HP를 20% 회복한다."/>
     <info-ds icon="tmp.png" 
-             name="ㅡㅡㅡ"
-             info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="암야 묵시록"
+             info ="암야의 환상의 스킬 레벨+3, 최대 15레벨 까지 상승"/>
     <info-ds icon="tmp.png" 
-             name="ㅡㅡㅡ"
-             info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="영야의 금수"
+             info ="ㅡㅡㅡㅡㅡ오즈의 지속 시간를 2초 연장한다. 오즈가 현재 캐릭터와 함께 공격하며 공격력 30%의 번개 원소 피해를 준다.ㅡㅡㅡㅡ"/>
   </destiny>
   <passive>
     <info-ps icon="-1" 
-             name="되살아난 여정" unlock="1" 
-             info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="별을 삼킨 까마귀" unlock="1" 
+             info="피슬이 차지 완료된 화살로 오즈를 명중하면 오즈가 주변의 적에게 신성한 번개를 내리고
+사격 피해의 152.7%에 달하는 번개 원소 범위 피해를 준다."/>
     <info-ps icon="-1"
-             name="두려움 없는 뜨거운 피" unlock="4"
-             info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="단죄의 뇌영" unlock="4"
+             info="오즈가 필드에 존재 시 캐릭터가 적을 공격하여 번개 원소 관련 반응이 발동되었다면
+적에게 신성한 번개를 내려 피슬 공격력 80%의 번개 원소 피해를 준다."/>
     <info-ps icon="-1" 
-             name="안전하겠지" unlock="0" 
-             info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
+             name="황녀의 화원" unlock="0" 
+             info="몬드에서 탐색 임무 수행시 소모하는 시간이 25% 감소한다."/>
   </passive>
   <skill icon="-1" max="15" 
-         name="행운의 검" 
-         info="일반 공격: 검으로 최대 5번 공격한다.&#xA;1단 공격 ? 2단 공격 ? 3단 공격 ? 4단 공격 ? 5단 공격 ?&#xA;강공격: 스태미나를 초당 ? 소모해 빠른 속도로 연속 베기를 시전한다. 최대 ?초 지속, 타격당 ?데미지, 베기 종료 시 추가로 한 번 강력하게 휘둘러 ?의 데미지를 준다.">
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
-    <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
+         name="죄멸의 화살" 
+         info="일반 공격
+&#xA;활로 최대 5번 공격한다.
+&#xA;
+&#xA;강공격
+&#xA;피해가 더 크고 정확한 조준 사격을 한다.
+조준 시 유야정토의 검은 번개 정령이 황녀의 명령을 받아 그녀의 뇌영 화살에 깃든다.
+단죄의 번개의 힘이 가득 찬 마법 화살은 강력한 번개 원소 피해를 준다.
+&#xA;
+&#xA;낙하 공격
+&#xA;공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 땅에 닿으면 범위 피해를 준다.
+&#xA;
+&#xA;1-Hit DMG  ?
+&#xA;2-Hit DMG  ?
+&#xA;3-Hit DMG  ?
+&#xA;4-Hit DMG  ?
+&#xA;5-Hit DMG  ?
+&#xA;Aimed Shot  ?
+&#xA;Fully-Charged Aimed Shot  ?
+&#xA;Plunge DMG  ?
+&#xA;Low / High Plunge DMG  ? / ?">
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="51.3%,54.4%,67.6%,67.1%,83.8%,51.0%,143%,66.1%,132%,165%"/>
+    <skillLevel rdata="56.4%,59.8%,74.4%,73.8%,92.2%,56.1%,155%,72.7%,145%,182%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
+    <skillLevel rdata="44.1%,46.8%,58.1%,57.7%,72.1%,43.9%,124%,56.8%,114%,142%"/>
   </skill>
   <skill icon="-1" max="15"
-         name="열정 과부하"  
-         info="망망대해를 가로지르는 선박이 번개를 쫓고 파도를 잡는다.
-&#xA;짧은 터치: 번개의 힘을 모아 전방에 대검을 맹렬하게 휘둘러 ?의 번개 원소 피해를 준다.
-&#xA;꾸욱 터치: 무기를 들고 전력을 다해 공격을 방어하여 ?의 피해를 흡수한다. 번개 원소는 250%의 피해를 흡수할 수 있다. 손을 놓거나 지속 시간이 종료되면 대검을 휘둘러 모은 힘으로 반격하여 ?의 번개 원소 피해를 준다. 지속 시간 내에 공겨을 받으면 힘 방출 시 주는 피해가 ? 증가한다. 해당 피해 증가는 최대 2번 발동할 수 있다.
-&#xA;해당 스킬은 거의 격직되지 않고 발동 시 북두에게 번개원소 효과를 부여한다.">
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
-    <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
+         name="밤을 순찰하는 그림자 날개"  
+         info="오즈를 소환한다. 암영과 뇌전으로 구성된 레이븐이 속세에 강림할 때
+&#xA;작은 범위 내의 적에게 번개 원소 피해를 준다.
+&#xA;오즈는 존재하는 동안 번개 에너지 탄을 발사하여 주변의 적을 공격한다.
+&#xA;
+&#xA;홀드하여 오즈의 위치를 조정할 수 있다.
+&#xA;오즈가 존재하는 동안 다시 한번 짧게 누르면 오즈를 자신의 주변으로 소환할 수 있다.
+&#xA;
+&#xA;「이 황녀님의 시간은 아주 귀중하다고. 너희 같은 녀석들에게 낭비할 순 없어...
+&#xA;오즈, 나를 대신해 영원한 밤을 가르는 단죄의 번개를 내리거라.」
+&#xA;──《피슬 황녀 야화·권4 · 「세계와 영원히 이별한 부인」
+&#xA;
+&#xA;Oz' ATK DMG  ?
+&#xA;Summoning DMG  ?
+&#xA;Oz's Duration  ?
+&#xA;CD  ?">
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="118%,153%,10s,25s" />
+    <skillLevel rdata="124%,162%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
+    <skillLevel rdata="88.8%,115%,10s,25s" />
   </skill>
   <skill icon="-1" max="15"
-         name="아름다운 여정" 
-         info="천둥번개가 내려치니 해산이 갈라졌다 한다!&#xA;
-&#xA;북두가 해산 괴수를 물리치던 전투를 돌이켜보며 괴수와 뇌전의 힘을 동시에 깨워 ?의 번개 피해를 주고 ?의 피해를 흡수하는 뇌전 괴수의 방패를 만들어내 자신을 둘러싼다. 뇌신 괴수의 방패가 존재할 때 행동이 쉽게 경직되지 않고 일반공격과 강곡격 시 체인 라이트닝을 방출해 적들 사이를 옮겨 다니면서 ?의 번개 원소 피해를 준다. 1초마다 최대 하나의 번개를 발동한다.
-&#xA;요구 원소 에너지 양 ?&#xA;지속 시간 ?&#xA;재사용 대기시간 ?">
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
-    <skillLevel rdata="???%,??%,??%,60,15초,15초"/>
+         name="암야의 환상" 
+         info="오즈를 소환해 칠흑으로 엮은 두 날개로 피슬을 보호한다.
+&#xA;지속하는 동안 아래의 효과를 가진다.
+&#xA;
+&#xA;· 오즈의 형태로 변해 고속 이동한다.
+&#xA;· 주변의 적에게 번개를 떨어트려 번개 원소 피해를 준다. 적 1명마다 낙뢰 피해를 1번만 받는다.
+&#xA;·효과 종료 시 오즈는 필드에 머물러 황녀의 적을 공격한다. 만약 오즈가 필드에 있으면 오즈의 존재 시간이 초기화된다.
+&#xA;
+&#xA;...저주받은 단죄의 피를 추종하여 따라온 야수 무리 중, 천 가지 세계의 적멸을 지켜본 까마귀 황제만이 그녀의 숭고함을 알아볼 수 있다. 그리하여 그는 칠흑은 엮은 두 날개로 고귀한 황녀를 영원히 지켜주겠노라고 맹세했다.
+&#xA;──《피슬 황녀 야화·권1 · 「종말 해체 개요」
+&#xA;
+&#xA;Falling Thunder DMG  ?
+&#xA;CD  ?
+&#xA;Energy Cost  ?">
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="224%,15s,60"/>
+    <skillLevel rdata="239%,15s,60"/>
+    <skillLevel rdata="260%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
+    <skillLevel rdata="208%,15s,60"/>
   </skill>
 
   <download>
     <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
-    <asset url="asset/img.icon/constellations/beidou_1.png" file="beidou_1.png" directory="/asset/img/constellation"/>
-    <asset url="asset/img.icon/constellations/beidou_5.png" file="beidou_5.png" directory="/asset/img/constellation"/>
   </download>
  </data>
