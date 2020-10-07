@@ -35,7 +35,8 @@
              name="황녀의 화원" unlock="0" 
              info="몬드에서 탐색 임무 수행시 소모하는 시간이 25% 감소한다."/>
   </passive>
-  <skill icon="/asset/img/constellation/tmp.png" max="15" 
+  <skill icon="/asset/img/constellation/tmp.png" 
+         max="15" 
          name="죄멸의 화살" 
          info="일반 공격
 &#xA;활로 최대 5번 공격한다.
