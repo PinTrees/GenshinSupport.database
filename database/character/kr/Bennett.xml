@@ -23,17 +23,17 @@
              info ="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
   </destiny>
   <passive>
-    <info-ps icon="-1" 
+    <info-ps icon="/asset/img/constellation/tmp.png" 
              name="되살아난 여정" unlock="1" 
              info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
-    <info-ps icon="-1"
+    <info-ps icon="/asset/img/constellation/tmp.png"
              name="두려움 없는 뜨거운 피" unlock="4"
              info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
-    <info-ps icon="-1" 
+    <info-ps icon="/asset/img/constellation/tmp.png" 
              name="안전하겠지" unlock="0" 
              info="ㅡㅡㅡㅡㅡㅡㅡㅡㅡ"/>
   </passive>
-  <skill icon="-1" max="15" 
+  <skill icon="/asset/img/constellation/tmp.png" max="15" 
          name="행운의 검" 
          info="일반 공격: 검으로 최대 5번 공격한다.&#xA;1단 공격 ? 2단 공격 ? 3단 공격 ? 4단 공격 ? 5단 공격 ?&#xA;강공격: 스태미나를 초당 ? 소모해 빠른 속도로 연속 베기를 시전한다. 최대 ?초 지속, 타격당 ?데미지, 베기 종료 시 추가로 한 번 강력하게 휘둘러 ?의 데미지를 준다.">
     <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
@@ -52,7 +52,7 @@
     <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
     <skillLevel rdata="??%,??%,??%,??%,??%,40.0pt,5,??%,???%"/>
   </skill>
-  <skill icon="-1" max="15"
+  <skill icon="/asset/img/constellation/tmp.png" max="15"
          name="열정 과부하"  
          info="망망대해를 가로지르는 선박이 번개를 쫓고 파도를 잡는다.
 &#xA;짧은 터치: 번개의 힘을 모아 전방에 대검을 맹렬하게 휘둘러 ?의 번개 원소 피해를 준다.
@@ -74,7 +74,7 @@
     <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
     <skillLevel rdata="???%,??%,???%,???%" eft="7.5"/>
   </skill>
-  <skill icon="-1" max="15"
+  <skill icon="/asset/img/constellation/tmp.png" max="15"
          name="아름다운 여정" 
          info="천둥번개가 내려치니 해산이 갈라졌다 한다!&#xA;
 &#xA;북두가 해산 괴수를 물리치던 전투를 돌이켜보며 괴수와 뇌전의 힘을 동시에 깨워 ?의 번개 피해를 주고 ?의 피해를 흡수하는 뇌전 괴수의 방패를 만들어내 자신을 둘러싼다. 뇌신 괴수의 방패가 존재할 때 행동이 쉽게 경직되지 않고 일반공격과 강곡격 시 체인 라이트닝을 방출해 적들 사이를 옮겨 다니면서 ?의 번개 원소 피해를 준다. 1초마다 최대 하나의 번개를 발동한다.
