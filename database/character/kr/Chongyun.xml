@@ -1,6 +1,7 @@
 <data>
   <name name="중운" assistant="얼어붙은 정열"/>
-  <detail group="리월항" birth="9월 7일" type="Cryo" destiny="건곤봉자리" />
+  <detail rareicon="/asset/img/static/star_1_4.png"
+          rare="4" group="리월항" birth="9월 7일" type="Cryo" destiny="건곤봉자리" />
 
   <destiny>
     <info-ds icon="tmp.png"
