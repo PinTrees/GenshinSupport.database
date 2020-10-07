@@ -1,0 +1,128 @@
+<data>
+  <name name="벤티" assistant="바람의 시인"/>
+  <detail  rareicon="/asset/img/static/star_1_5.png" 
+           rare="5" 
+           group="몬드성"
+           birth="6월 16일"
+           type="Anemo" 
+           destiny="가선자리" />
+
+  <destiny>
+    <info-ds icon="tmp.png"
+             name="쏘아 올린 창풍" 
+             info ="조준 사격 시 추가로 두발의 분열된 화살을 발사한다. 각각 기존 화살의 33% 피해를 준다."/>
+    <info-ds icon="tmp.png"
+             name="그리운 찬 바람"
+             info ="높은 하늘의 노래는 적의 바람 원소 내성과 물리 내성을 12% 감소시킨다. 지속시간:10초. 높은 하늘의 노래에 의해 공중에 띄워진 적은 땅에 닿기 전에 바람 원소 내성과 물리 내성이 추가로 12% 감소한다."/>
+    <info-ds icon="tmp.png"
+             name="천풍의 시"
+             info ="바람신의 시 스킬 레벨+3 최대 Lv.15까지 상승"/>
+    <info-ds icon="tmp.png"
+             name="자유의 찬 바람"
+             info ="벤티가 원소 구슬 혹은 원소 입자를 획득 후 바람 원소 피해 보너스를 25% 획득한다. 지속시간:10초"/>
+    <info-ds icon="tmp.png" 
+             name="높은 하늘의 협주"
+             info ="높은 하늘의 노래의 스킬 레벨+3 최대Lv.15까지 상승"/>
+    <info-ds icon="tmp.png" 
+             name="투쟁의 폭풍"
+             info ="바람신의 시에 피격된 적은 바람 원소 내성이 20% 감소한다. 원소 전환이 발생할 경우 해당 원소 내성도 20% 감소한다."/>
+  </destiny>
+  <passive>
+    <info-ps icon="-1" 
+             name="여풍의 포옹" unlock="1" 
+             info="원소 스킬을 홀드 하면 윈드필드가 20초간 생성 ."/>
+    <info-ps icon="-1"
+             name="폭풍의 눈" unlock="4"
+             info="원소 폭발 종료후 벤티의 원소 에너지 15pt 회복, 만약 원소 전환 발생시 해당원소의 파티원도 15pt 회복."/>
+    <info-ps icon="-1" 
+             name="항풍과 함께" unlock="0" 
+             info="파티내 모든 캐릭터 활강시 소보 되는 스태미나 20퍼 감소."/>
+  </passive>
+  <skill icon="-1" max="15"
+         name="ㅡㅡㅡ"
+         info="기본공격
+&#xA;활으로 최대 6번 공격할 수 있다.
+&#xA;
+&#xA;강공격
+&#xA;조준하며 차징시 대미지가 상승하며 최대 차징시 바람 원소 공격을 한다.
+&#xA;
+&#xA;1-Hit DMG  ?
+&#xA;2-Hit DMG  ?
+&#xA;3-Hit DMG  ?
+&#xA;4-Hit DMG  ?
+&#xA;5-Hit DMG  ?
+&#xA;6-Hit DMG  ?
+&#xA;Aimed Shot  ?
+&#xA;Fully-Charged Aimed Shot  ?
+&#xA;Plunge DMG  ?
+&#xA;Low / High Plunge DMG  ?">
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+    <skillLevel rdata="20.4% + 20.4%,44.4%,52.4%,26.1% + 26.1%,50.7%,71%,43.9%,124%,56.8%,114% / 142%"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="높은 하늘의 노래"
+         info="바람 원소 공격으로 적을 띄우며 적을 느리게 추락 시킴+홀드시 자신 주변 넓은 범위에 있는 적을 띄우며 자신도 높게.띄움.
+&#xA;
+&#xA;Press DMG  ?
+&#xA;Press CD  ?
+&#xA;Hold DMG  ?
+&#xA;CD (hold)  ?">
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+    <skillLevel rdata="276%,6s,380%,15s"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="바람신의 시"
+         info="적들을 모으며 지속적인 바람 원소공격 딱한번, 원소 전환시 그 원소의 공격으로 변경 .
+&#xA;
+&#xA;DoT  ?
+&#xA;Additional Elemental DMG  ?
+&#xA;Duration  ?
+&#xA;CD  ?
+&#xA;Energy Cost  ?">
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+    <skillLevel rdata="47%,23.5%,8s,15s,60"/>
+  </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+  </download>
+ </data>
