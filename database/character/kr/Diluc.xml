@@ -1,0 +1,121 @@
+<data>
+  <name name="다이루크" assistant="새벽의 어둠"/>
+  <detail group="다운 와이너리" birth="4월 30일" type="Pyro" destiny="밤 올빼미자리" />
+
+  <destiny>
+    <info-ds icon="tmp.png"
+             name="죄악 징벌" 
+             info ="HP가 50% 이상인 적에게 주는 피해가 15% 증가한다."/>
+    <info-ds icon="tmp.png"
+             name="뜨거운 잿더미"
+             info ="피해를 받으면 기초 공격력이 10% 증가하고 공격 속도가 5% 증가한다. 지속 시간: 10초 최대 중첩수: 3회 1.5초마다 1번 발동한다."/>
+    <info-ds icon="tmp.png"
+             name="강철의 불꽃"
+             info ="역날의 화염의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png"
+             name="유화의 화상"
+             info ="역날의 화염 시전 후 2초가 지나면 다음 역날의 화염 피해가 40% 증가한다. 지속시간: 4초"/>
+    <info-ds icon="tmp.png" 
+             name="여명을 알리는 불새"
+             info ="여명의 스킬 레벨+3(최대 15렙까지 상승)"/>
+    <info-ds icon="tmp.png" 
+             name="어둠을 가르는 화염의 검"
+             info ="역날의 화염 시전 후 다음 일반 공격 2번의 공격 속도가 30% 증가하고 가하는 피해가 30% 증가한다. 또한, 역날의 화염은 첫 번째와 두 번째 일반 공격의 연격을 끊지 않는다."/>
+  </destiny>
+  <passive>
+    <info-ps icon="-1" 
+             name="끊임없는 정진" unlock="1" 
+             info="강공격의 스태미나 소모량이 50% 감소하고 강공격의 지속 시간이 3초 증가한다."/>
+    <info-ps icon="-1"
+             name="융해의 날개" unlock="4"
+             info="여명 시전 후 12초 동안 불 원소 피해 보너스를 12% 획득한다. 일반 공격과 강공격에 불 원소를 부여한다."/>
+    <info-ps icon="-1" 
+             name="기나긴 밤의 감시" unlock="0" 
+             info="파티 내 모든 캐릭터의 기초 공격력이 상승한다."/>
+  </passive>
+  <skill icon="-1" max="15" 
+         name="ㅡㅡㅡ" 
+         info="일반 공격: 검으로 최대 4번 공격할 수 있다.
+&#xA;강공격: 스테미나를 지속해서 소모해 빠른속도로 연속베기를 시전한다. 베기 종료 시 추가로 한번 강하게 휘두른다.
+&#xA;
+&#xA;1-Hit DMG  ?%
+&#xA;2-Hit DMG  ?%
+&#xA;3-Hit DMG  ?%
+&#xA;4-Hit DMG  ?%
+&#xA;Charged Attack Spinning DMG  ?%
+&#xA;Charged Attack Final DMG  ?%
+&#xA;Charged Attack Stamina Cost  ?/s
+&#xA;Max Duration  ?s
+&#xA;Plunge DMG  ?%
+&#xA;Low / High Plunge DMG  ?% / ?%">
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+    <skillLevel rdata="89.7,87.6,98.8,134,68.8,125,40,5,89.5,179,224"/>
+  </skill>
+  <skill icon="-1" max="15"
+         name="역날의 화염"  
+         info="대검을 휘둘러 불 원소 피해를 준다. 해당 스킬은 최대 연속으로 3회까지 사용할 수 있다. 만약 일정 시간 내에 계속 시전하지 않으면 재사용 대기시간에 진입한다.
+&#xA;
+&#xA;1-Hit DMG  ?%
+&#xA;2-Hit DMG  ?%
+&#xA;3-Hit DMG  ?%
+&#xA;CD  ?s">
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+    <skillLevel rdata="94.4,97.6,129,10" />
+  </skill>
+  <skill icon="-1" max="15"
+         name="여명" 
+         info="강렬한 화염을 폭발시켜 주위의 적을 넉백시키고 화염을 대검에 응집시킨 후 휘둘러 앞을 향해 나아가는 불새를 소환해 경로상의 적에게 불 원소 피해를 준다.
+&#xA;
+&#xA;Slashing DMG  ?
+&#xA;DoT  ?
+&#xA;Explosion DMG  ?
+&#xA;CD  ?
+&#xA;Enchantment Duration  ?
+&#xA;Energy Cost  ?">
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+    <skillLevel rdata="204%,60%,204%,12s,8s,40"/>
+  </skill>
+
+  <download>
+    <asset url="asset/img.icon/constellations/tmp.png" file="tmp.png" directory="/asset/img/constellation"/>
+  </download>
+ </data>
