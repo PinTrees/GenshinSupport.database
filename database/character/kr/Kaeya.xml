@@ -1,6 +1,11 @@
 <data>
   <name name="케이아" assistant="한풍의 검사"/>
-  <detail group="페보니우스 기사단" birth="11월 30일" type="Cryo" destiny="공작깃털자리" />
+  <detail rareicon="/asset/img/static/star_1_4.png"
+          rare="4"
+          group="페보니우스 기사단"
+          birth="11월 30일" 
+          type="Cryo" 
+          destiny="공작깃털자리" />
 
   <destiny>
     <info-ds icon="tmp.png"

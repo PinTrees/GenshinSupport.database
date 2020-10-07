@@ -1,6 +1,7 @@
 <data>
   <name name="베넷" assistant="운명의 시금석"/>
-  <detail group="모험가 길드" birth="○○월 ○○일" type="Pyro" destiny="?" />
+  <detail rareicon="/asset/img/static/star_1_4.png"
+          rare="4" group="모험가 길드" birth="○○월 ○○일" type="Pyro" destiny="?" />
 
   <destiny>
     <info-ds icon="tmp.png"
