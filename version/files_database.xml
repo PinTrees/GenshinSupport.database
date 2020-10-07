@@ -2,9 +2,24 @@
   <asset url="database/list_charactor.xml" file="list_character.xml" directory="/database" compulsion="1"/>
   <asset url="database/database_item_weapons.xml" file="database_item_weapons.xml" directory="/database" compulsion="1"/>
   
-  <asset url="database/character/kr/Beidou.xml" file="Beidou.xml" directory="/database/character" compulsion="1"/>
-  <asset url="database/character/kr/Jean.xml" file="Jean.xml" directory="/database/character" compulsion="1"/>
   <asset url="database/character/kr/Amber.xml" file="Amber.xml" directory="/database/character" compulsion="1"/>
-  <asset url="database/character/kr/Klee.xml" file="Amber.xml" directory="/database/character" compulsion="1"/>
   <asset url="database/character/kr/Barbara.xml" file="Barbara.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Beidou.xml" file="Beidou.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Bennett.xml" file="Bennett.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Chongyun.xml" file="Chongyun.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Diluc.xml" file="Diluc.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Fischl.xml" file="Fischl.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Jean.xml" file="Jean.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Kaeya.xml" file="Kaeya.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Klee.xml" file="Klee.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Lisa.xml" file="Lisa.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Ningguang.xml" file="Ningguang.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Noelle.xml" file="Noelle.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Razor.xml" file="Razor.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Traveler (Anemo).xml" file="Traveler (Anemo).xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Traveler (Geo).xml" file="Traveler (Geo).xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Venti.xml" file="Venti.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Xiangling.xml" file="Xiangling.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Xiao.xml" file="Xiao.xml" directory="/database/character" compulsion="1"/>
+  <asset url="database/character/kr/Xingqiu.xml" file="Xingqiu.xml" directory="/database/character" compulsion="1"/>
 </data>
