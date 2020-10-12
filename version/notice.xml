@@ -1,7 +1,11 @@
 <data>
-  <version ver="0.0.1" state="0"
-           info="음식 도감 추가"
-           date="2020.10.04" />
+  <version ver="1.0.2" state="0"
+           info="음식 데이터 추가"
+           date="2020.10.18" />
+  <version ver="1.0.1" state="1"
+           info="지도 시뮬레이터 추가
+           &#xA;워프 포인트, 바람신의 눈동자 추가"
+           date="2020.10.12" />
   <version ver="0.0.0" state="1"
            info="1. 무기 도감 추가
            &#xA;2. 캐릭터 도감 추가"
